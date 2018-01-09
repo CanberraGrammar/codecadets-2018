@@ -1,6 +1,6 @@
 [//]: # (This is the plan for Year Seven)
 
-# Year Seven Code Cadets
+% Year Seven Code Cadets
 
 ## Week One
 
