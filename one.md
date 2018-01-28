@@ -18,7 +18,7 @@ Our outcomes for this session are:
 1. Familiarise yourselves with the Rules & Expectations
 2. Install Atom
 3. Install the Script package for Atom
-3. Install a Linux Distrobution (Windows Only)
+3. Install a Linux Distribution (Windows Only)
 4. Write a basic Python Program in Atom
 
 ### 1.1.W1 | Installing Atom (Windows)
@@ -26,6 +26,11 @@ Our outcomes for this session are:
 Please note the following instructions are intended for students with **Windows** computers. If you have a Macintosh computer, please navigate to 1.1.M1
 
 Firstly, navigate to https://atom.io/
+
+Click on Download Windows 64-bit Installer.
+
+![Download Atom for Windows](https://canberragrammar.github.io/year7-codecadets/Download_Atom_Mac.gif "Download Atom For Windows")
+
 
 
 ### 1.1.M1 | Installing Atom (Macintosh)
