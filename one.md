@@ -32,6 +32,8 @@ Our outcomes for this session are:
 
 Please note the following instructions are intended for students with **Windows** computers. If you have a Macintosh computer, please navigate to 1.1.M1
 
+Firstly, navigate to https://atom.io/
+
 
 ### 1.1.M1 | Installing Atom (Macintosh)
 
