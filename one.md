@@ -19,12 +19,23 @@ Hi there and welcome to Code Cadets this year! To start with, we'll get you up t
 
 You will have received an email about which group you are in, please make sure you are in the right session. If you need to change sessions due to a change in availability (Summer/Winter Sport etc...) please make sure you ask your parents to send through an email to your tutor.
 
-This session will focus on setting up our computers and installing relevant programs we will be using. Please note there will be seperate instructions relevant to your type of computer; if you have a laptop running Windows, please navigate to this section (1.1.Win.1). If you have an Apple Macintosh, please navigate to this section (1.1)
+This session will focus on setting up our computers and installing relevant programs we will be using. Please note there will be seperate instructions relevant to your type of computer; if you have a laptop running Windows, please navigate to this section (1.1.W1). If you have an Apple Macintosh, please navigate to this section (1.1.M1).
 
-### 1.1.W1
-### 1.1.M1 | Installing Atom
+Our outcomes for this session are:
+1. Familiarise yourselves with the Rules & Expectations
+2. Install Atom
+3. Install the Script package for Atom
+3. Install a Linux Distrobution (Windows Only)
+4. Write a basic Python Program in Atom
 
-Atom is an Open Source text editor, which is widely used due to its customizability. Being able to use a text editor is fundamenetal to programming, think of it as your pen & paper for writing code. We will be using Atom in this course, however there are plenty of other options to choose from, although we will not be supporting any other editors in this course.
+### 1.1.W1 | Installing Atom (Windows)
+
+Please note the following instructions are intended for students with **Windows** computers. If you have a Macintosh computer, please navigate to 1.1.M1
+
+
+### 1.1.M1 | Installing Atom (Macintosh)
+
+
 
 
 
