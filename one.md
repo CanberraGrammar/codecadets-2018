@@ -33,7 +33,4 @@ Click on Download Windows 64-bit Installer.
 
 ![Download Atom for Mac](https://canberragrammar.github.io/year7-codecadets/Download_Atom_Mac.gif "Download Atom For Mac")
 
-
-
-
 ### 1.1.2 |
