@@ -4,6 +4,34 @@ title: Code Cadets Code of Conduct
 
 # Code Cadets Guide
 
+## People
+
+### **Alex** Eckersley
+
+Alex is in his third year of a Bachelor of Software Engineering at the ANU.
+
+### **Alex** Gellel
+
+Alex is in his third year of a Bachelor of Advanced Computing at the ANU.
+
+
+### **Sam** Moore
+
+Sam is in his third year of a Bachelor of Software Engineering at the ANU.
+
+### **Joshua** Whitcombe
+
+At the moment, Josh is in his third year of a Bachelor of Engineering (Mechatronics) / Bachelor of Science (Computer Science) at the Australian National University. Josh graduated from Canberra Grammar School in 2015 and received the Peter Hazlehurst prize for Information Technology when he left the school.
+
+## Sessions
+
+| Group | Year Group | Day | Tutor | Email |
+|-------|--------|------------|--------|
+| A     | 7 (fix) | Tuesday (fix) | Josh W | josh.whitcombe@cgs.act.edu.au |
+| B     | 7 & 8 (fix) | Wednesday (fix) | Alex E | alex.eckersley@cgs.act.edu.au |
+| C     | 7 (fix) | Monday (fix) | Alex G | alex.gellel@cgs.act.edu.au |
+| D     | 9 (fix) | Monday (fix) | Sam M| sam.moore@cgs.act.edu.au |
+
 ## Attendance and Session Logistics
 
 ### Do I need to attend every session?
