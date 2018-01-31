@@ -29,8 +29,12 @@ Firstly, navigate to https://atom.io/
 
 Click on Download Windows 64-bit Installer.
 
+<img src="https://canberragrammar.github.io/year7-codecadets/Resources/Download_Atom_Windows.gif" alt="Drawing" style="width: 20%;"
+
+
+
 ### 1.1.M1 | Installing Atom (Macintosh)
 
-![Download Atom for Mac](https://canberragrammar.github.io/year7-codecadets/Download_Atom_Mac.gif "Download Atom For Mac")
+<img src="https://canberragrammar.github.io/year7-codecadets/Resources/Download_Atom_Mac.gif" alt="Drawing" style="width: 20%;"/>
 
 ### 1.1.2 |
