@@ -29,12 +29,12 @@ Firstly, navigate to https://atom.io/
 
 Click on Download Windows 64-bit Installer.
 
-<img src="https://canberragrammar.github.io/year7-codecadets/Resources/Download_Atom_Windows.gif" alt="Drawing" style="width: 30%;"/>
+<img src="https://canberragrammar.github.io/year7-codecadets/Resources/Download_Atom_Windows.gif" alt="Drawing" style="width: 100%;"/>
 
 
 
 ### 1.1.M1 | Installing Atom (Macintosh)
 
-<img src="https://canberragrammar.github.io/year7-codecadets/Resources/Download_Atom_Mac.gif" alt="Drawing" style="width: 30%;"/>
+<img src="https://canberragrammar.github.io/year7-codecadets/Resources/Download_Atom_Mac.gif" alt="Drawing" style="width: 100%;"/>
 
 ### 1.1.2 |
