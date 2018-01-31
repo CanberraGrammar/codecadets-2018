@@ -31,10 +31,21 @@ Click on Download Windows 64-bit Installer.
 
 <img src="https://canberragrammar.github.io/year7-codecadets/Resources/Download_Atom_Windows.gif" alt="Drawing" style="width: 100%;"/>
 
+Once you have successfully downloaded Atom, double click on the file and run the installation process.
 
 
 ### 1.1.M1 | Installing Atom (Macintosh)
 
+Please note the following instructions are intended for students with **Macintosh** computers. If you have a Windows computer, please navigate to 1.1.W1
+
+Firstly, navigate to https://atom.io/
+
+Click on Download For Mac.
+
 <img src="https://canberragrammar.github.io/year7-codecadets/Resources/Download_Atom_Mac.gif" alt="Drawing" style="width: 100%;"/>
 
-### 1.1.2 |
+Once you have successfully downloaded Atom, double clip the downloaded .Zip file to "extract" the contents. Now drag the Atom Icon from your **Downloads** folder into your **Applications** folder.
+
+<img src="https://canberragrammar.github.io/year7-codecadets/Resources/Install_Atom_Mac.gif" alt="Drawing" style="width: 100%;"/>
+
+### 1.1.2 | Getting a Multitasking Setup
