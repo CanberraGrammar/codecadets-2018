@@ -33,6 +33,22 @@ Click on Download Windows 64-bit Installer.
 
 Once you have successfully downloaded Atom, double click on the file and run the installation process.
 
+### 1.1.W2 | Installing the Linux Subsytem (Windows)
+
+Please note the following instructions are intended for students with **Windows** computers only. If you have a Macintosh computer, please navigate to 1.1.M1
+We will be following the instructions listed on the Windows Official Website. (https://docs.microsoft.com/en-us/windows/wsl/install-win10).
+
+Firstly, you need to open your start menu (Windows Key on your keyboard, or bottom left of your screen) and type in PowerShell. Right click the application and click run as Administrator.
+
+The next step is to copy and paste in the following command line
+
+```Python
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+```
+
+It will then ask you if you would like to restart your computer. Please restart your computer by typing in "Y" and pressing return (don't worry, this page will still be here when you get back ^_^).
+
+<img src="https://canberragrammar.github.io/year7-codecadets/Resources/Linux_Subsystem.gif" alt="Drawing" style="width: 100%;"/>
 
 ### 1.1.M1 | Installing Atom (Macintosh)
 
@@ -51,6 +67,5 @@ Once you have successfully downloaded Atom, double clip the downloaded .Zip file
 To test you have installed it correctly, search for Atom using **Spotlight**. Spotlight is an extremely useful tool built into your Macintosh that can help you locate files and folders much faster than clicking through multiple UI elements. To use Spotlight, simply press Command + Space on your keyboard. This will bring up the Spotlight search bar, where you can enter "Atom" and then press return to open up Atom.
 
 <img src="https://canberragrammar.github.io/year7-codecadets/Resources/Spotlight_Search_Atom.gif" alt="Drawing" style="width: 100%;"/>
-
 
 ### 1.1.2 | Getting a Multitasking Setup
