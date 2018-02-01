@@ -8,16 +8,16 @@ title: Code Cadets Code of Conduct
 
 ### **Alex** Eckersley
 
-Alex is in his third year of a Bachelor of Software Engineering at the ANU.
+Alex is in his third year of a Bachelor of Software Engineering at the Australian National University.
 
 ### **Alex** Gellel
 
-Alex is in his third year of a Bachelor of Advanced Computing at the ANU.
+Alex is in his third year of a Bachelor of Advanced Computing at the Australian National University.
 
 
 ### **Sam** Moore
 
-Sam is in his third year of a Bachelor of Software Engineering at the ANU.
+Sam is in his third year of a Bachelor of Software Engineering at the Australian National University.
 
 ### **Joshua** Whitcombe
 
@@ -58,4 +58,8 @@ Definitely! These things happen and sometimes you can lose your way. Let your tu
 
 ### I can't do the set work this week, will I get a detention?
 
-Programming is hard. High school can be the most stressful and the hardest part of growing up and it would be unfair to add another whole subject on to your already busy schedule. All we ask as tutors and as a program is for you to give it your all while you're with us and occasionally complete quizes and small tasks at home.
+Programming is hard. High school can be the most stressful and the one of the hardest parts of growing up and it would be unfair to add another whole subject onto your already busy schedule. All we ask as tutors and as a program is for you to give it your all while you're with us and occasionally complete quizes and small tasks at home. The homework we set is merely to make sure everyone is on the same page, if you complete all the work in each session there will be no need to complete any further work at home.
+
+### Where are sessions held?
+
+Have a look at the regularly updated room and session schedule available here.
