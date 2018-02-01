@@ -2,7 +2,7 @@
 title: Sessions Outline
 ---
 
-Updated: 01/02/18
+Page updated as of {% last_modified_at %}
 
 | Year | Day       | Tutor  | Room |
 |------|-----------|--------|------|

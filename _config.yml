@@ -1,3 +1,5 @@
 title: Year Seven Code Cadets
 description: Written by Alexander Eckersley and Joshua Whitcombe
 theme: jekyll-theme-minimal
+gems:
+  - jekyll-last-modified-at
