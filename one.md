@@ -50,6 +50,13 @@ It will then ask you if you would like to restart your computer. Please restart 
 
 <img src="https://canberragrammar.github.io/year7-codecadets/Resources/Linux_Subsystem.gif" alt="Drawing" style="width: 100%;"/>
 
+Our next step will be to download a Linux Distribution. We will be using Ubuntu in this course, but there are many other builds you could use.
+
+Open up your start menu and type in Microsoft Store and launch the application.
+Next search "Ubuntu" in the search field at the top right. Click on the relevant application and install it (this may take a while and have to be completed at home!).
+
+<img src="https://canberragrammar.github.io/year7-codecadets/Resources/Ubuntu_Store.gif" alt="Drawing" style="width: 100%;"/>
+
 ### 1.1.M1 | Installing Atom (Macintosh)
 
 Please note the following instructions are intended for students with **Macintosh** computers. If you have a Windows computer, please navigate to 1.1.W1
