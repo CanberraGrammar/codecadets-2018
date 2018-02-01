@@ -38,6 +38,8 @@ Once you have successfully downloaded Atom, double click on the file and run the
 Please note the following instructions are intended for students with **Windows** computers only. If you have a Macintosh computer, please navigate to 1.1.M1
 We will be following the instructions listed on the Windows Official Website. (https://docs.microsoft.com/en-us/windows/wsl/install-win10).
 
+Before beginning this step of the process, **Please ensure your windows is completely up to date, and that your version is the "Fall Creators Update" (Windows Build 16215) or later (To check your windows build, press Windows Key + R and type in "winver"). If it is not, please update windows before continuing.
+
 Firstly, you need to open your start menu (Windows Key on your keyboard, or bottom left of your screen) and type in PowerShell. Right click the application and click run as Administrator.
 
 The next step is to copy and paste in the following command line
