@@ -8,20 +8,27 @@ title: Code Cadets Code of Conduct
 
 ### **Alex** Eckersley
 
-Alex is in his third year of a Bachelor of Software Engineering at the Australian National University.
+Contactable at [alex.eckersley@cgs.act.edu.au](mailto:alexander.gellel@cgs.act.edu.au)
+
+_Alex is in his third year of a Bachelor of Software Engineering at the Australian National University._
 
 ### **Alex** Gellel
 
-Alex is in his third year of a Bachelor of Advanced Computing at the Australian National University.
+Contactable at [alex.gellel@cgs.act.edu.au](mailto:alexander.gellel@cgs.act.edu.au)
 
+_Alex is in his third year of a Bachelor of Advanced Computing at the Australian National University._
 
 ### **Sam** Moore
 
-Sam is in his third year of a Bachelor of Software Engineering at the Australian National University.
+Contactable at [sam.moore@cgs.act.edu.au](mailto:sam.moore@cgs.act.edu.au)
+
+_Sam is in his third year of a Bachelor of Software Engineering at the Australian National University._
 
 ### **Joshua** Whitcombe
 
-At the moment, Josh is in his third year of a Bachelor of Engineering (Mechatronics) / Bachelor of Science (Computer Science) at the Australian National University. Josh graduated from Canberra Grammar School in 2015 and received the Peter Hazlehurst prize for Information Technology when he left the school.
+Contactable at [josh.whitcombe@cgs.act.edu.au](mailto:alexander.gellel@cgs.act.edu.au)
+
+_At the moment, Josh is in his third year of a Bachelor of Engineering (Mechatronics) / Bachelor of Science (Computer Science) at the Australian National University. Josh graduated from Canberra Grammar School in 2015 and received the Peter Hazlehurst prize for Information Technology when he left the school._
 
 ## Sessions
 
@@ -54,12 +61,12 @@ We prefer it if you stay for the whole session and ask that if you anticipate le
 
 ### I feel as though I'm slipping behind on the content, is it worth staying on?
 
-Definitely! These things happen and sometimes you can lose your way. Let your tutor know that you're having difficulty keeping up or understanding something and we'll be happy to work through your troubles one-on-one.
+Definitely! These things happen and sometimes you can lose your way. Let [your tutor](#People) know that you're having difficulty keeping up or understanding something and we'll be happy to work through your troubles one-on-one.
 
 ### I can't do the set work this week, will I get a detention?
 
-Programming is hard. High school can be the most stressful and the one of the hardest parts of growing up and it would be unfair to add another whole subject onto your already busy schedule. All we ask as tutors and as a program is for you to give it your all while you're with us and occasionally complete quizes and small tasks at home. The homework we set is merely to make sure everyone is on the same page, if you complete all the work in each session there will be no need to complete any further work at home.
+[Programming is hard](https://medium.freecodecamp.org/make-your-hobby-harder-programming-is-difficult-thats-why-you-should-learn-it-e4627aee41a1). High school can be one of the [most stressful](http://www.apa.org/monitor/2014/04/teen-stress.aspx) parts of growing up and it would be unfair to add another whole subject onto your already busy schedule. All we ask as tutors and as a program is for you to give it your all while you're with us and occasionally complete quizes and small tasks at home. The homework we set is merely to make sure everyone is on the same page, if you complete all the work in each session there will be no need to complete any further work at home.
 
 ### Where are sessions held?
 
-Have a look at the regularly updated room and session schedule available here.
+Have a look at the regularly updated room and session schedule available [here](https://canberragrammar.github.io/year7-codecadets/sessions).
