@@ -4,17 +4,17 @@ title: Code Cadets Code of Conduct
 
 # Code Cadets Guide
 
-## People
+## [People](#People)
 
 ### **Alex** Eckersley
 
-Contactable at [alex.eckersley@cgs.act.edu.au](mailto:alexander.gellel@cgs.act.edu.au)
+Contactable at [alex.eckersley@cgs.act.edu.au](mailto:alex.eckersley@cgs.act.edu.au)
 
 _Alex is in his third year of a Bachelor of Software Engineering at the Australian National University._
 
 ### **Alex** Gellel
 
-Contactable at [alex.gellel@cgs.act.edu.au](mailto:alexander.gellel@cgs.act.edu.au)
+Contactable at [alex.gellel@cgs.act.edu.au](mailto:alex.gellel@cgs.act.edu.au)
 
 _Alex is in his third year of a Bachelor of Advanced Computing at the Australian National University._
 
@@ -26,7 +26,7 @@ _Sam is in his third year of a Bachelor of Software Engineering at the Australia
 
 ### **Joshua** Whitcombe
 
-Contactable at [josh.whitcombe@cgs.act.edu.au](mailto:alexander.gellel@cgs.act.edu.au)
+Contactable at [josh.whitcombe@cgs.act.edu.au](mailto:josh.whitcombe@cgs.act.edu.au)
 
 _At the moment, Josh is in his third year of a Bachelor of Engineering (Mechatronics) / Bachelor of Science (Computer Science) at the Australian National University. Josh graduated from Canberra Grammar School in 2015 and received the Peter Hazlehurst prize for Information Technology when he left the school._
 
