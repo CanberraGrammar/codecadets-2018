@@ -4,7 +4,8 @@ title: Code Cadets Code of Conduct
 
 # Code Cadets Guide
 
-## [People](#People)
+<a name="People"></a>
+## People
 
 ### **Alex** Eckersley
 
