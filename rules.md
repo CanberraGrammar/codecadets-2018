@@ -20,7 +20,7 @@ Sam is in his third year of a Bachelor of Software Engineering at the ANU.
 
 ### **Joshua** Whitcombe
 
-At the moment, Josh is in his third year of a Bachelor of Engineering (Mechatronics) / Bachelor of Science (Computer Science) at the Australian National University.
+Josh is in his third year of a Bachelor of Engineering (Mechatronics) / Bachelor of Science (Computer Science) at the ANU.
 
 ## Sessions
 

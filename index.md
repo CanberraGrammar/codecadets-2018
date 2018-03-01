@@ -8,13 +8,10 @@ Firstly, welcome to Code Cadets! This year we're going to be exploring three key
 - Programming Logic
 - Unity Game Development
 
-### Code of Conduct
+### Quick Links
 
-- Expectations
-- will
-- be
-- outlined
-- here
+- Rules
+- Session Info
 
 ### Course Outline
 
