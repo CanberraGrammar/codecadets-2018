@@ -74,3 +74,32 @@ Once you have successfully downloaded Atom, double clip the downloaded .Zip file
 To test you have installed it correctly, search for Atom using **Spotlight**. Spotlight is an extremely useful tool built into your Macintosh that can help you locate files and folders much faster than clicking through multiple UI elements. To use Spotlight, simply press Command + Space on your keyboard. This will bring up the Spotlight search bar, where you can enter "Atom" and then press return to open up Atom.
 
 <img src="https://canberragrammar.github.io/year7-codecadets/Resources/Spotlight_Search_Atom.gif" alt="Drawing" style="width: 100%;"/>
+
+### 1.2 | Adding Packages to Atom (Mac)
+
+Open up Atom. You should be taken to the main screen.
+
+Now, we want to install an extra feature to Atom. The "Script" Package will allow us to run our code alongside our editor.
+
+From the main screen, click "Install a Package", and then the blue "Open Installer" button. A new column should appear, containing a search bar. Enter "Script" into the search bar, and click the Enter key. After taking a moment to search, it should bring up the package, now simply click the "Install" button".
+
+<img src="https://canberragrammar.github.io/year7-codecadets/Resources/Install_Script.gif" alt="Drawing" style="width: 100%;"/>
+
+
+### 1.3.1 | Making a new Script
+
+Now that we can run our code, we need a script to test it on. To create a new file use the shortcut Command + N. You should now have a blank window. Type in the following code:
+
+> print("Hello World!")
+
+Once you have entered this, Save the file with Command + S (Control + S on Windows). You will be asked for a file name, which should be "Hello.py". Save it to a folder that you'll remember.
+
+<img src="https://canberragrammar.github.io/year7-codecadets/Resources/File_Name.png" alt="Drawing" style="width: 100%;"/>
+
+### 1.3.2 | Running your Script
+
+Now that you have written a basic program, let's run it. The fastest way to do this is Command + I (Control + I on Windows). At the bottom of your editor you should see a window that looks something like this.
+
+<img src="https://canberragrammar.github.io/year7-codecadets/Resources/Finished.png" alt="Drawing" style="width: 100%;"/>
+
+If you see any Warnings or Errors, it's likely your code didn't run correctly, so double check your work and run it again.
