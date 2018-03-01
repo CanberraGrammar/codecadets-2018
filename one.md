@@ -88,9 +88,11 @@ From the main screen, click "Install a Package", and then the blue "Open Install
 
 ### 1.3.1 | Making a new Script
 
-Now that we can run our code, we need a script to test it on. To create a new file use the shortcut Command + N. You should now have a blank window. Type in the following code:
+Now that we can run our code, we need a script to test it on. To create a new file use the shortcut Command + N (Control + N on Windows). You should now have a blank window. Type in the following code:
 
-> print("Hello World!")
+```python
+print("Hello World!")
+```
 
 Once you have entered this, Save the file with Command + S (Control + S on Windows). You will be asked for a file name, which should be "Hello.py". Save it to a folder that you'll remember.
 

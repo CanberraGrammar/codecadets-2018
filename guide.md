@@ -35,7 +35,7 @@ _Josh is in his third year of a Bachelor of Engineering (Mechatronics) / Bachelo
 
 ### Where do I find information about which session I'm supposed to go to?
 
-All information about sessions (regularly updated to let you know which room you're in) is available [here](https://canberragrammar.github.io/year7-codecadets/sessions)
+All information about sessions (regularly updated to let you know which room you're in) is available [here](https://canberragrammar.github.io/codecadets-2018/sessions)
 
 ### Do I need to attend every session?
 
