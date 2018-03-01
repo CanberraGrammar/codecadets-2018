@@ -75,7 +75,7 @@ To test you have installed it correctly, search for Atom using **Spotlight**. Sp
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/Spotlight_Search_Atom.gif" alt="Drawing" style="width: 100%;"/>
 
-### 1.2 | Adding Packages to Atom (Mac)
+### 1.2 | Adding Packages to Atom 
 
 Open up Atom. You should be taken to the main screen.
 
