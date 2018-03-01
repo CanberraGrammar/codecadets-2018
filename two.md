@@ -2,7 +2,7 @@
 title: Week Two
 ---
 
-[//]: # (This is week two of the Code Cadets Year Seven program)
+[//]: # (This is week two of the Code Cadets program)
 
 ### 2.1 | Background on Terminal / Linux Subsytem
 

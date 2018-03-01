@@ -2,7 +2,7 @@
 title: Week One
 ---
 
-[//]: # (This is week one of the Code Cadets Year Seven program)
+[//]: # (This is week one of the Code Cadets program)
 
 ### 1.1 | Introduction to Code Cadets & Setup
 
