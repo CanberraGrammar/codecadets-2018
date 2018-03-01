@@ -76,5 +76,3 @@ Once you have successfully downloaded Atom, double clip the downloaded .Zip file
 To test you have installed it correctly, search for Atom using **Spotlight**. Spotlight is an extremely useful tool built into your Macintosh that can help you locate files and folders much faster than clicking through multiple UI elements. To use Spotlight, simply press Command + Space on your keyboard. This will bring up the Spotlight search bar, where you can enter "Atom" and then press return to open up Atom.
 
 <img src="https://canberragrammar.github.io/year7-codecadets/Resources/Spotlight_Search_Atom.gif" alt="Drawing" style="width: 100%;"/>
-
-### 1.1.2 | Getting a Multitasking Setup
