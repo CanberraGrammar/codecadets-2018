@@ -10,7 +10,7 @@ Hi there and welcome to Code Cadets this year! To start with, we'll get you up t
 
 You will have received an email about which group you are in, please make sure you are in the right session. If you need to change sessions due to a change in availability (Summer/Winter Sport etc...) please make sure you ask your parents to send through an email to your tutor.
 
-This session will focus on setting up our computers and installing relevant programs we will be using. Please note there will be seperate instructions relevant to your type of computer; if you have a laptop running Windows, please navigate to this section (1.1.W1). If you have an Apple Macintosh, please navigate to this section (1.1.M1).
+This session will focus on setting up our computers and installing relevant programs we will be using. Please note there will be seperate instructions relevant to your type of computer; if you have a laptop running Windows, please navigate to this section [(1.1.W1)]("#Windows"). If you have an Apple Macintosh, please navigate to this section [(1.1.M1)]("#Mac").
 
 Our outcomes for this session are:
 1. Familiarise yourselves with the Rules & Expectations
@@ -19,6 +19,7 @@ Our outcomes for this session are:
 3. Install a Linux Distribution (Windows Only)
 4. Write a basic Python Program in Atom
 
+<a name="Windows"></a>
 ### 1.1.W1 | Installing Atom (Windows)
 
 Please note the following instructions are intended for students with **Windows** computers. If you have a Macintosh computer, please navigate to 1.1.M1
@@ -57,6 +58,7 @@ Next search "Ubuntu" in the search field at the top right. Click on the relevant
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/Ubuntu_Store.gif" alt="Drawing" style="width: 100%;"/>
 
+<a name="Mac"></a>
 ### 1.1.M1 | Installing Atom (Macintosh)
 
 Please note the following instructions are intended for students with **Macintosh** computers. If you have a Windows computer, please navigate to 1.1.W1
@@ -75,7 +77,7 @@ To test you have installed it correctly, search for Atom using **Spotlight**. Sp
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/Spotlight_Search_Atom.gif" alt="Drawing" style="width: 100%;"/>
 
-### 1.2 | Adding Packages to Atom 
+### 1.2 | Adding Packages to Atom
 
 Open up Atom. You should be taken to the main screen.
 
