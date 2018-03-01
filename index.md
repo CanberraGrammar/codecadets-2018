@@ -10,8 +10,8 @@ Firstly, welcome to Code Cadets! This year we're going to be exploring three key
 
 ### Quick Links
 
-- Rules
-- Session Info
+- [Rules / Q&A](guide.md)
+- [Session Info](sessions.md)
 
 ### Course Outline
 

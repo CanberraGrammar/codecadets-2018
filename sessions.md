@@ -2,8 +2,8 @@
 title: Sessions Outline
 ---
 
-| Group | Year Group | Day | Tutor |
-|-------|--------|------------|
+| Group | Year Group | Day | Tutor | Room |
+|-------|-----|------------|-----------|---|
 | A     | 7 | Tuesday | Sam M |
 | B     | 7 | Tuesday | Alex G |
 | C     | 8 | Tuesday | Alex E |
