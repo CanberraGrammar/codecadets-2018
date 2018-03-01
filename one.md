@@ -27,7 +27,7 @@ Firstly, navigate to https://atom.io/
 
 Click on Download Windows 64-bit Installer.
 
-<img src="https://canberragrammar.github.io/year7-codecadets/Resources/Download_Atom_Windows.gif" alt="Drawing" style="width: 100%;"/>
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/Download_Atom_Windows.gif" alt="Drawing" style="width: 100%;"/>
 
 Once you have successfully downloaded Atom, double click on the file and run the installation process.
 
@@ -48,14 +48,14 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 It will then ask you if you would like to restart your computer. Please restart your computer by typing in "Y" and pressing return (don't worry, this page will still be here when you get back ^_^).
 
-<img src="https://canberragrammar.github.io/year7-codecadets/Resources/Linux_Subsystem.gif" alt="Drawing" style="width: 100%;"/>
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/Linux_Subsystem.gif" alt="Drawing" style="width: 100%;"/>
 
 Our next step will be to download a Linux Distribution. We will be using Ubuntu in this course, but there are many other builds you could use.
 
 Open up your start menu and type in Microsoft Store and launch the application.
 Next search "Ubuntu" in the search field at the top right. Click on the relevant application and install it (this may take a while and have to be completed at home!).
 
-<img src="https://canberragrammar.github.io/year7-codecadets/Resources/Ubuntu_Store.gif" alt="Drawing" style="width: 100%;"/>
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/Ubuntu_Store.gif" alt="Drawing" style="width: 100%;"/>
 
 ### 1.1.M1 | Installing Atom (Macintosh)
 
@@ -65,11 +65,11 @@ Firstly, navigate to https://atom.io/
 
 Click on Download For Mac.
 
-<img src="https://canberragrammar.github.io/year7-codecadets/Resources/Download_Atom_Mac.gif" alt="Drawing" style="width: 100%;"/>
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/Download_Atom_Mac.gif" alt="Drawing" style="width: 100%;"/>
 
 Once you have successfully downloaded Atom, double clip the downloaded .Zip file to "extract" the contents. Now drag the Atom Icon from your **Downloads** folder into your **Applications** folder.
 
-<img src="https://canberragrammar.github.io/year7-codecadets/Resources/Install_Atom_Mac.gif" alt="Drawing" style="width: 100%;"/>
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/Install_Atom_Mac.gif" alt="Drawing" style="width: 100%;"/>
 
 To test you have installed it correctly, search for Atom using **Spotlight**. Spotlight is an extremely useful tool built into your Macintosh that can help you locate files and folders much faster than clicking through multiple UI elements. To use Spotlight, simply press Command + Space on your keyboard. This will bring up the Spotlight search bar, where you can enter "Atom" and then press return to open up Atom.
 

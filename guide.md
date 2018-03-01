@@ -65,4 +65,4 @@ Definitely! These things happen and sometimes you can lose your way. Let [your t
 
 ### Where are sessions held?
 
-Have a look at the regularly updated room and session schedule available [here](https://canberragrammar.github.io/year7-codecadets/sessions).
+Have a look at the regularly updated room and session schedule available [here](sessions.md).
