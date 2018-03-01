@@ -36,7 +36,7 @@ Firstly, welcome to Code Cadets! This year we're going to be exploring three key
 
 Each weekly session is released one week in advance. Before coming to the session we expect all students to read and complete the *pre-lab* tasks outlined at the top of the page.
 
-### Week One | Introduction to Code Cadets & Setup
+### [Week One | Introduction to Code Cadets & Setup](one.md)
 
 In our first week, we will be covering some of the fundemental skills you will require to be able to program effectively. We will also be setting up our computers and installing the necessary tools we will need for our first term.
 

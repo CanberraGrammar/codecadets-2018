@@ -29,7 +29,7 @@ _Sam is in his third year of a Bachelor of Software Engineering at the Australia
 
 Contactable at [josh.whitcombe@cgs.act.edu.au](mailto:josh.whitcombe@cgs.act.edu.au)
 
-_At the moment, Josh is in his third year of a Bachelor of Engineering (Mechatronics) / Bachelor of Science (Computer Science) at the Australian National University. Josh graduated from Canberra Grammar School in 2015 and received the Peter Hazlehurst prize for Information Technology when he left the school._
+_Josh is in his third year of a Bachelor of Engineering (Mechatronics) / Bachelor of Science (Computer Science) at the Australian National University._
 
 ## Attendance and Session Logistics
 
