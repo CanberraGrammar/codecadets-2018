@@ -10,7 +10,7 @@ Hi there and welcome to Code Cadets this year! To start with, we'll get you up t
 
 You will have received an email about which group you are in, please make sure you are in the right session. If you need to change sessions due to a change in availability (Summer/Winter Sport etc...) please make sure you ask your parents to send through an email to your tutor.
 
-This session will focus on setting up our computers and installing relevant programs we will be using. Please note there will be seperate instructions relevant to your type of computer; if you have a laptop running Windows, please navigate to this section [(1.1.W1)]("#Windows"). If you have an Apple Macintosh, please navigate to this section [(1.1.M1)]("#Mac").
+This session will focus on setting up our computers and installing relevant programs we will be using. Please note there will be seperate instructions relevant to your type of computer; if you have a laptop running Windows, please navigate to this section [(1.1.W1)](#Windows). If you have an Apple Macintosh, please navigate to this section [(1.1.M1)](#Mac).
 
 Our outcomes for this session are:
 1. Familiarise yourselves with the Rules & Expectations
