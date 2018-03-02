@@ -15,16 +15,17 @@ This session will focus on setting up our computers and installing relevant prog
 Our outcomes for this session are:
 1. Familiarise yourselves with the Rules & Expectations
 2. Install Atom
-3. Install the Script package for Atom
-3. Install a Linux Distribution (Windows Only)
-4. Write a basic Python Program in Atom
+3. Install Python 3
+4. Install the Script package for Atom
+5. Install a Linux Distribution (Windows Only)
+6. Write a basic Python Program in Atom
 
 <a name="Windows"></a>
 ### 1.1.W1 | Installing Atom (Windows)
 
-Please note the following instructions are intended for students with **Windows** computers. If you have a Macintosh computer, please navigate to 1.1.M1
+Please note the following instructions are intended for students with **Windows** computers. If you have a Macintosh computer, please navigate to [(1.1.M1)](#Mac).
 
-Firstly, navigate to https://atom.io/
+Firstly, navigate to [https://atom.io/](https://atom.io/)
 
 Click on Download Windows 64-bit Installer.
 
@@ -34,8 +35,8 @@ Once you have successfully downloaded Atom, double click on the file and run the
 
 ### 1.1.W2 | Installing the Linux Subsytem (Windows)
 
-Please note the following instructions are intended for students with **Windows** computers only. If you have a Macintosh computer, please navigate to 1.1.M1
-We will be following the instructions listed on the Windows Official Website. (https://docs.microsoft.com/en-us/windows/wsl/install-win10).
+Please note the following instructions are intended for students with **Windows** computers only. If you have a Macintosh computer, please navigate to [(1.1.M1)](#Mac).
+We will be following the instructions listed on the Windows [Official Website](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
 
 Before beginning this step of the process, **Please ensure your windows is completely up to date**, and that your version is the "Fall Creators Update" (Windows Build 16215) or later (To check your windows build, press Windows Key + R and type in "winver"). If it is not, please update windows before continuing.
 
@@ -47,7 +48,7 @@ The next step is to copy and paste in the following command line
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 ```
 
-It will then ask you if you would like to restart your computer. Please restart your computer by typing in "Y" and pressing return (don't worry, this page will still be here when you get back ^_^).
+It will then ask you if you would like to restart your computer. Please restart your computer by typing in "Y" and pressing return (don't worry, this page will still be here when you get back).
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/Linux_Subsystem.gif" alt="Activating Optional Feature" style="width: 100%;"/>
 
@@ -62,12 +63,15 @@ Next search "Ubuntu" in the search field at the top right. Click on the relevant
 
 The final setup step is to install the Python programming language. If you already have Python installed, you can skip this step.
 
-Navigate to the [Python website]("wwww.Python.org") and download the latest version of Python 3.X.X
+Navigate to the [Python website]("http://wwww.python.org") and download the latest version of Python 3.X.X
 
 Once you have downloaded the installer, simply open the executable and click through the steps.
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/py_windows.gif" alt="Installing Python" style="width: 100%"/>
 <a name="Mac"></a>
+
+The Windows-specific setup should be complete, head over to section [1.2](#Packages) to continue.
+
 ### 1.1.M1 | Installing Atom (Macintosh)
 
 Please note the following instructions are intended for students with **Macintosh** computers. If you have a Windows computer, please navigate to 1.1.W1
@@ -86,6 +90,12 @@ To test you have installed it correctly, search for Atom using **Spotlight**. Sp
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/Spotlight_Search_Atom.gif" alt="Using Spotlight" style="width: 100%;"/>
 
+### 1.1.M2 | Installing Python (Macintosh)
+In order to run the program you are about to write, you must install python 3. Download and install the [latest version of python](https://www.python.org/ftp/python/3.6.4/python-3.6.4-macosx10.6.pkg). Follow the steps to install python 3, ask the tutors about any errors you encounter.
+
+The Macintosh-specific setup should be complete, head over to section [1.2](#Packages) to continue.
+
+<a name="Packages"></a>
 ### 1.2 | Adding Packages to Atom
 
 Open up Atom. You should be taken to the main screen.
