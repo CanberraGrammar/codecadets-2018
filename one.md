@@ -15,7 +15,8 @@ This session will focus on setting up our computers and installing relevant prog
 Select the operating system your laptop is running:
 
 
-[<img src="https://canberragrammar.github.io/codecadets-2018/Resources/apple.png" alt="Apple Icon"/> MacOS](#Mac)[<img src="https://canberragrammar.github.io/codecadets-2018/Resources/windows.png" alt="Windows Icon"/>Windows](#Windows)
+[<img src="https://canberragrammar.github.io/codecadets-2018/Resources/apple.png" alt="Apple Icon"/> MacOS](#Mac)
+[<img src="https://canberragrammar.github.io/codecadets-2018/Resources/windows.png" alt="Windows Icon"/>Windows](#Windows)
 
 
 Our outcomes for this session are:
