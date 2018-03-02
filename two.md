@@ -8,7 +8,7 @@ title: Week Two
 
 **Relevant to Macintosh users only** Terminal is a Command Line Interface (CLI) application that provides you with text-based control of the operating system, subverting the traditional Graphical User Interface (GUI) provided to you in MacOS. It allows you to control aspects of your computer through text commands rather than interacting with graphical elements, giving you greater control and empowering you to do things you simply can't through the basic UI.
 
-**Relevant to Windows users only** The Linux Subsytem is a way of emulating an instance of the Linux Operating System within Windows, allowing Windows users to have access to the Linux Console and the associated benefits of a fully fledged Command Line Interface (CLI) that were traditionally only available to Unix Based Operating Systems (MacOS & Linux) as Windows uses its own Windows **Kernel** (The Kernel is the program that manages all interactions between the software on your computer, and the physical hardware your computer has) that operates in a different manner to the Unix Kernel.
+**Relevant to Windows users only** The Linux Subsytem is a way of emulating an instance of the Linux Operating System within Windows, allowing Windows users to have access to the Linux Console and the associated benefits of a fully fledged Command Line Interface (CLI) that were traditionally only available to Unix Based Operating Systems (MacOS & Linux) as Windows uses its own Windows **Kernel** (The [Kernel]("https://en.wikipedia.org/wiki/Kernel_(operating_system)") is the program that manages all interactions between the software on your computer, and the physical hardware your computer has) that operates in a different manner to the Unix Kernel.
 
 ### 2.2 | Starting Up
 

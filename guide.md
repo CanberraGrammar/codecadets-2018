@@ -33,6 +33,11 @@ _Josh is in his third year of a Bachelor of Engineering (Mechatronics) / Bachelo
 
 ## Attendance and Session Logistics
 
+### What do I need for each session?
+
+**You need to bring your laptop and your laptop charger to every session**. Everything we will be doing will be done on your personal computer, so if you don't bring your laptop there will not be much for you to do, and we do not have spare laptops to hand out.
+
+Also please ensure that you have Administrator privileges to your laptop, either by having access to your parent's user account, or having your user account be set to Administrator. Not having Administrator privileges will make it difficult for us to install programs during the sessions, and make it difficult to perform certain actions on your laptop.
 ### Where do I find information about which session I'm supposed to go to?
 
 All information about sessions (regularly updated to let you know which room you're in) is available [here](https://canberragrammar.github.io/codecadets-2018/sessions)
