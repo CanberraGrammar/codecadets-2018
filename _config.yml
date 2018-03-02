@@ -1,5 +1,5 @@
 title: Code Cadets
-description: Written by Alexander Eckersley, Joshua Whitcombe, Alexander Gellel & Samuel Moore.
-theme: jekyll-theme-modernist
+description: Information & Content for the CGS Code Cadets Program.
+theme: jekyll-theme-cayman
 gems:
   - jekyll-last-modified-at
