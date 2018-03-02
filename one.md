@@ -13,6 +13,8 @@ You will have received an email about which group you are in, please make sure y
 This session will focus on setting up our computers and installing relevant programs we will be using. Please note there will be seperate instructions relevant to your operating system.
 
 Select the operating system your laptop is running:
+
+
 [<img src="https://canberragrammar.github.io/codecadets-2018/Resources/apple.png" alt="Apple Icon"/> MacOS](#Mac)[<img src="https://canberragrammar.github.io/codecadets-2018/Resources/windows.png" alt="Windows Icon"/>Windows](#Windows)
 
 
