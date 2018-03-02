@@ -20,6 +20,7 @@ Our outcomes for this session are:
 4. Write a basic Python Program in Atom
 
 <a name="Windows"></a>
+
 ### 1.1.W1 | Installing Atom (Windows)
 
 Please note the following instructions are intended for students with **Windows** computers. If you have a Macintosh computer, please navigate to 1.1.M1
@@ -67,7 +68,9 @@ Navigate to the [Python website]("wwww.Python.org") and download the latest vers
 Once you have downloaded the installer, simply open the executable and click through the steps.
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/py_windows.gif" alt="Installing Python" style="width: 100%"/>
+
 <a name="Mac"></a>
+
 ### 1.1.M1 | Installing Atom (Macintosh)
 
 Please note the following instructions are intended for students with **Macintosh** computers. If you have a Windows computer, please navigate to 1.1.W1
