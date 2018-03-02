@@ -1,5 +1,5 @@
 title: Code Cadets
 description: Written by Alexander Eckersley, Joshua Whitcombe, Alexander Gellel & Samuel Moore.
-theme: jekyll-theme-slate
+theme: jekyll-theme-modernist
 gems:
   - jekyll-last-modified-at
