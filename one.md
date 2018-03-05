@@ -98,7 +98,15 @@ In order to run the program you are about to write, you must install python 3. D
 The Macintosh-specific setup should be complete, head over to section [1.2](#Packages) to continue.
 
 <a name="Packages"></a>
-### 1.2 | Adding Packages to Atom
+
+### 1.2 | Sign up for GitHub
+
+The last thing we need to set up for use in the code cadets program will be to create a GitHub account. GitHub is a version control system we will be exploring a little bit later in the term. GitHub is a widly used industry tool for managing software projects, it allows you to keep detailed logs of the changes your project undergoes during developments, and lets you roll back if something goes wrong.
+
+This entire website is hosted through GitHub and you can check out the repo [here.](https://github.com/CanberraGrammar/codecadets-2018)
+
+
+### 1.3 | Adding Packages to Atom
 
 Open up Atom. You should be taken to the main screen.
 
@@ -109,7 +117,7 @@ From the main screen, click "Install a Package", and then the blue "Open Install
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/InstallScript.gif" alt="Adding Packages" style="width: 100%;"/>
 
 
-### 1.3.1 | Making a new Script
+### 1.4.1 | Making a new Script
 
 Now that we can run our code, we need a script to test it on. To create a new file use the shortcut Command + N (Control + N on Windows). You should now have a blank window. Type in the following code:
 
@@ -121,7 +129,7 @@ Once you have entered this, Save the file with Command + S (Control + S on Windo
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/File_Name.png" alt="Making a Python file" style="width: 100%;"/>
 
-### 1.3.2 | Running your Script
+### 1.4.2 | Running your Script
 
 Now that you have written a basic program, let's run it. The fastest way to do this is Command + I (Control + I on Windows). At the bottom of your editor you should see a window that looks something like this.
 
