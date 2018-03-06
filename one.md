@@ -169,7 +169,7 @@ Once you've completed the guide *and* read through the rules of engagement guide
 3. Push some code to a new repository on GitHub (10 pts)
 4. Print out some kind of table using ASCII characters in Python (20 pts) e.g.:
 
-'''python
+```
 \
  \
   \
@@ -178,5 +178,5 @@ Once you've completed the guide *and* read through the rules of engagement guide
      \
       \
 _______\
-'''
+```
 
