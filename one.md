@@ -112,6 +112,12 @@ The last thing we need to set up for use in the code cadets program will be to c
 
 This entire website is hosted through GitHub and you can check out the repo [here.](https://github.com/CanberraGrammar/codecadets-2018)
 
+Visit the [GitHub Sign up Page](https://github.com/join) to begin the sign up process.
+For your email address, use your school email address (in the format firstname.lastname@cgs.act.edu.au). Your user name must be in the format CGS-Firstname-Lastname (for example, John Smith will have an email address of john.smith@cgs.act.edu.au and a username of CGS-John-Smith).
+
+You can add in an avatar and customize your profile page, but bear in mind this is a public profile and you are representing the school publically so the picture you choose and any information you decide to add should be appropriate.
+
+
 
 ### 1.3 | Adding Packages to Atom
 
@@ -143,3 +149,13 @@ Now that you have written a basic program, let's run it. The fastest way to do t
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/Finished.png" alt="Running a Python file" style="width: 100%;"/>
 
 If you see any Warnings or Errors, it's likely your code didn't run correctly, so double check your work and run it again.
+
+### 1.5 | Python Challenges
+
+By now you should have achieved the following:
+- Installed Atom (Windows & Mac Students)
+- Installed the Linux Subsystem (Windows Students)
+- Install Python (Windows & Mac Students)
+- Signed up for a GitHub account (Windows & Mac Students)
+
+If you have not yet completed one of these activities, please go back and make sure you have. If you are having any troubles with one of the steps, please talk to your tutor or ask one of the mentors.
