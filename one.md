@@ -150,7 +150,7 @@ Now that you have written a basic program, let's run it. The fastest way to do t
 
 If you see any Warnings or Errors, it's likely your code didn't run correctly, so double check your work and run it again.
 
-### 1.5 | Python Challenges
+### 1.5 | Summary
 
 By now you should have achieved the following:
 - Installed Atom (Windows & Mac Students)
@@ -159,3 +159,24 @@ By now you should have achieved the following:
 - Signed up for a GitHub account (Windows & Mac Students)
 
 If you have not yet completed one of these activities, please go back and make sure you have. If you are having any troubles with one of the steps, please talk to your tutor or ask one of the mentors.
+
+### 1.6 | Python Challenge
+
+Once you've completed the guide *and* read through the rules of engagement guide, start working through these challenges. If you haven't coded before chuck your hand up and your tutor will step through getting started with you. Complete these as you go and try and rack up as many points as you can by the end of today.
+
+1. Write a program that loops through from 1 to 100 (5 pts)
+2. Write a program that prints out all fibonacci numbers from 1 to 100 (20 pts)
+3. Push some code to a new repository on GitHub (10 pts)
+4. Print out some kind of table using ASCII characters in Python (20 pts) e.g.:
+
+'''python
+\
+ \
+  \
+   \
+    \
+     \
+      \
+_______\
+'''
+
