@@ -179,4 +179,7 @@ Once you've completed the guide *and* read through the rules of engagement guide
 _______\
 ```
 
-4. Push some code to a new repository on GitHub (10 pts)
+4. Write a program that starts from 999, and adds together the digits of all the numbers until you reach a single digit. I.e. if you started with 99;
+  5. Step 1: 9 + 9 = 18
+  6. Step 2: 1 + 8 = 9
+  7. Step 3: Finished
