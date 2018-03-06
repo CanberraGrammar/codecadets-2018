@@ -167,7 +167,7 @@ Once you've completed the guide *and* read through the rules of engagement guide
 1. Write a program that loops through from 1 to 100 (5 pts)
 2. Write a program that prints out all fibonacci numbers from 1 to 100 (20 pts)
 3. Push some code to a new repository on GitHub (10 pts)
-4. Print out some kind of table using ASCII characters in Python (20 pts) e.g.:
+4. Print out a triangle like below using loops and ASCII characters in Python (5 pts), bonus points for asking the user for a height and printing out the hieght (20 pts) e.g.:
 
 ```
 \
