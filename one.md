@@ -183,3 +183,4 @@ _______\
   - Step 1: 9 + 9 = 18
   - Step 2: 1 + 8 = 9
   - Step 3: Finished
+5. Write a program, that features a **function** that will take a string, and return the string in reverse order i.e. If I give the function 'hello', it should return 'olleh'.
