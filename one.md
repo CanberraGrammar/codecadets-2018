@@ -144,7 +144,7 @@ Once you have entered this, Save the file with Command + S (Control + S on Windo
 
 ### 1.4.2 | Running your Script
 
-Now that you have written a basic program, let's run it. The fastest way to do this is Command + I (Control + I on Windows). At the bottom of your editor you should see a window that looks something like this.
+Now that you have written a basic program, let's run it. The fastest way to do this is Command + I (Control Shift B on Windows). At the bottom of your editor you should see a window that looks something like this.
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/Finished.png" alt="Running a Python file" style="width: 100%;"/>
 
@@ -166,7 +166,7 @@ Once you've completed the guide *and* read through the rules of engagement guide
 
 1. Write a program that loops through from 1 to 100 (5 pts)
 2. Write a program that prints out all fibonacci numbers from 1 to 100 (20 pts)
-3. Print out a triangle like below using loops and ASCII characters in Python (5 pts), bonus points for asking the user for a height and printing out the hieght (20 pts) e.g.:
+3. Print out a triangle like below using loops and ASCII characters in Python (5 pts), bonus points for asking the user for a height and printing out the height (20 pts) e.g.:
 
 ```
 \
