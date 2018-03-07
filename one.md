@@ -164,6 +164,8 @@ If you have not yet completed one of these activities, please go back and make s
 
 Once you've completed the guide *and* read through the rules of engagement guide, start working through these challenges. If you haven't coded before chuck your hand up and your tutor will step through getting started with you. Complete these as you go and try and rack up as many points as you can by the end of today.
 
+If you have never done Python before, or you are *extremely* rusty, check out [Grok Learning](https://groklearning.com/learn/intro-python-1/intro-to-programming/0/).
+
 1. Write a program that loops through from 1 to 100 (5 pts)
 2. Write a program that prints out all fibonacci numbers from 1 to 100 (20 pts)
 3. Print out a triangle like below using loops and ASCII characters in Python (5 pts), bonus points for asking the user for a height and printing out the height (20 pts) e.g.:
