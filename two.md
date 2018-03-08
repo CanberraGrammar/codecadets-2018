@@ -34,3 +34,9 @@ A note on terminology;
 | rm -R [path]  | **Remove** a given directory and it's contents |
 | pwd | List the Directory you are currently in |
 | whatis [command] | Gives you a description of a given command |
+
+
+<h1> test </h1>
+<script>
+  alert("test message");
+</script>
