@@ -118,7 +118,6 @@ For your email address, use your school email address (in the format firstname.l
 You can add in an avatar and customize your profile page, but bear in mind this is a public profile and you are representing the school publically so the picture you choose and any information you decide to add should be appropriate.
 
 
-
 ### 1.3 | Adding Packages to Atom
 
 Open up Atom. You should be taken to the main screen.

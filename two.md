@@ -33,4 +33,5 @@ A note on terminology;
 | mkdir [name]  | **Make Directory** with the given name |
 | rm -R [path]  | **Remove** a given directory and it's contents |
 | pwd | List the Directory you are currently in |
+| cat [filename] | Print out the contents of a given file |
 | whatis [command] | Gives you a description of a given command |
