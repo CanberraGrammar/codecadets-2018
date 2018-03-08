@@ -35,3 +35,9 @@ A note on terminology;
 | pwd | List the Directory you are currently in |
 | cat [filename] | Print out the contents of a given file |
 | whatis [command] | Gives you a description of a given command |
+
+
+<h1> test </h1>
+<script>
+  alert("test message");
+</script>
