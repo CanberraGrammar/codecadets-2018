@@ -36,7 +36,55 @@ A note on terminology;
 | whatis [command] | Gives you a description of a given command |
 
 
-<h1> test </h1>
-<script>
-  alert("test message");
-</script>
+### 2.3 | Interacting with files
+
+Now that you know how to navigate your directories, you can interact with files within them. To use our Hello World Python script from last week as an example. Firstly you'll need to cd into the directory where you saved the file, and then tell the computer to open it:
+
+> open hello.py
+
+However using this will open the file in its default program, often a basic Text-Editor. When you have additional editors, such as Atom, you probably don't want to open a file with its default program. To get around this, we can add parameter -a [App name] to our command to specify to the computer what program we want to use, like so:
+
+> open -a "Atom" hello.py
+
+If you wanted to view the file's contents directly in the command line, you can try:
+
+> cat hello.py
+
+### 2.3 | Running Code from Terminal
+
+You can also run files for most programming languages directly from the Command Line.
+
+> python hello.py
+
+Some of you may have noticed last week that the Script plugin we use for Atom doesn't like Python's inline input instructions. If you have a program that uses these elements, running from Terminal is the best way to do it.
+
+### 2.4 | Creating new files
+
+Similar to making a new directory as shown in the table above, you can make new files directly from the command line. The touch command
+
+
+### 2.5 | Putting it all together
+
+Now that we have all these techniques, let's try and use them all to create and run a new Python script. If you can't remember how to do any of these steps, they're all detailed in the above sections.
+
+**Remember to do this through the command line.**
+
+1. Open a new Terminal/Ubuntu Window and navigate into the directory you want to work from.
+
+2. Using mkdir in the table above, create a new folder for Code Cadets if you haven't already.
+
+3. Create a new Python file (don't forget the .py extension), and then open it in Atom via the command line.
+
+4. Edit your code in Atom and save the file.
+
+5. Run your code from the command line to test that it compiles.
+
+For the Python code, you can use just use this sample below, similar to what you'll have seen in Grok, or you can make your own script to do whatever you want.
+
+```Python
+name = input("What is your name? ")
+print("Hello, " + name + "!")
+```
+
+
+### 2.6 | _________
