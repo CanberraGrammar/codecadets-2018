@@ -136,6 +136,8 @@ For example, at the Australian National University, you can log into the compute
 ```python
 ssh uXXXXXXX@partch.anu.edu.au
 ```
+Please note that this is just an example won't actually run for you, we don't have an active remote server for you to SSH into on hand.
+
 We then are prompted for our university username and password, and then we can access the university computers through our terminal windows, and perform commands such as copying over files to our local machine. To end an ssh session, you simply type:
 
 ```Python
