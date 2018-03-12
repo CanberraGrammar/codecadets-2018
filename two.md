@@ -60,8 +60,11 @@ Some of you may have noticed last week that the Script plugin we use for Atom do
 
 ### 2.4 | Creating new files
 
-Similar to making a new directory as shown in the table above, you can make new files directly from the command line. The touch command
+Similar to making a new directory as shown in the table above, you can make new files directly from the command line. The touch command allows us to do just that.
 
+> touch newFileName.py
+
+Unless otherwise specified, this will be created inside the folder you are currently in. If the file shares a name with an existing file, it won't do anything.
 
 ### 2.5 | Putting it all together
 
