@@ -150,4 +150,4 @@ The aim is to use your critical thinking, and your new found knowledge of Bash c
 
 **You must end the ssh session with the exit command before attempting to log in again using the new password.**
 
-http://overthewire.org/wargames/bandit/
+[http://overthewire.org/wargames/bandit/](http://overthewire.org/wargames/bandit/)

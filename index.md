@@ -37,7 +37,7 @@ Each weekly session is released one week in advance.
 
 In our first week, we will be covering some of the fundemental skills you will require to be able to program effectively. We will also be setting up our computers and installing the necessary tools we will need for our first term.
 
-###  Week Two | Getting Started with Terminal
+###  [Week Two | Getting Started with Terminal](two.md)
 
 During our second week, we will cover the Command Line Interface (Terminal for Mac, Linux Subsytem for Windows) and how to take advantage of it to streamline our programming experience.
 
