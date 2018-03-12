@@ -32,41 +32,73 @@ A note on terminology;
 | clear   | **Clears** the terminal window |
 | mkdir [name]  | **Make Directory** with the given name |
 | rm -R [path]  | **Remove** a given directory and it's contents |
+| cat [file] | Print out the contents of a given file |
 | pwd | List the Directory you are currently in |
 | whatis [command] | Gives you a description of a given command |
 
+### 2.2 | Navigating directories
 
-### 2.3 | Interacting with files
+Two commands you will end up using the most often are **ls** & **cd**. ls will list all the files & folders in the current directory you are in and cd will allow you to change directories. Typing cd followed by a directory will take you there. If you are confused or not sure where to go next, you can type ls to see all the current folders and files that are inside the folder you are currently in. For example, you could type:
+
+```Python
+cd Documents
+```
+to be taken to your documents folder.
+
+Lets give it a try:
+
+**Mac Only** - Your task is to navigate to your desktop in terminal using the cd command (Hint: try using ls to start).
+
+**Windows Only** - When you first open your Ubuntu window, you will be in the home directory of your *Ubuntu instance*. However, you want to be able to access your Windows files, so when you open up the window you need to type:
+
+```Python
+cd /mnt/c
+```
+
+cd being change directores, mnt being the list of all your *mounted drives* and c being the typical letter asigned to your boot drive (if you open My Computer, you will see your hard drive labelled as Local Disck C).
+
+
+### 2.4 | Interacting with files
 
 Now that you know how to navigate your directories, you can interact with files within them. To use our Hello World Python script from last week as an example. Firstly you'll need to cd into the directory where you saved the file, and then tell the computer to open it:
 
-> open hello.py
+```python
+open hello.py
+```
 
 However using this will open the file in its default program, often a basic Text-Editor. When you have additional editors, such as Atom, you probably don't want to open a file with its default program. To get around this, we can add parameter -a [App name] to our command to specify to the computer what program we want to use, like so:
 
-> open -a "Atom" hello.py
+```python
+open -a "Atom" hello.py
+```
 
 If you wanted to view the file's contents directly in the command line, you can try:
 
-> cat hello.py
+```python
+cat hello.py
+```
 
-### 2.3 | Running Code from Terminal
+### 2.5 | Running Code from Terminal
 
 You can also run files for most programming languages directly from the Command Line.
 
-> python hello.py
+```python
+python hello.py
+```
 
 Some of you may have noticed last week that the Script plugin we use for Atom doesn't like Python's inline input instructions. If you have a program that uses these elements, running from Terminal is the best way to do it.
 
-### 2.4 | Creating new files
+### 2.6 | Creating new files
 
 Similar to making a new directory as shown in the table above, you can make new files directly from the command line. The touch command allows us to do just that.
 
-> touch newFileName.py
+```python
+touch newFileName.py
+```
 
 Unless otherwise specified, this will be created inside the folder you are currently in. If the file shares a name with an existing file, it won't do anything.
 
-### 2.5 | Putting it all together
+### 2.7 | Putting it all together
 
 Now that we have all these techniques, let's try and use them all to create and run a new Python script. If you can't remember how to do any of these steps, they're all detailed in the above sections.
 
@@ -90,4 +122,32 @@ print("Hello, " + name + "!")
 ```
 
 
-### 2.6 | _________
+### 2.8 | SSH (Secure Shell)
+
+SSH is a way for you to be able to log into another computer (generally a server) remotely, and be presented with a Unix Based CLI to control the computer. This is a tool that you will certainly use if you continue on with Computer Science into University or practice it in the real world.
+
+You need 3 things to log into a remote client using SSH.
+- The SSH Link
+- Username
+- Password
+
+For example, at the Australian National University, you can log into the computer lab computers from home to access all your saved documents/access tools that are installed on the university computers. The way we do this is by typing the follow into our Terminal window:
+
+```python
+ssh uXXXXXXX@partch.anu.edu.au
+```
+We then are prompted for our university username and password, and then we can access the university computers through our terminal windows, and perform commands such as copying over files to our local machine. To end an ssh session, you simply type:
+
+```Python
+exit
+```
+
+### 2.9 | Challenge Activity | Over the Wire: Bandit
+
+For the remainder of this session, you will be working your way though a series of challenges designed to test your understandings of the concepts above. You must read each page carefully, and use the hints they give you if you want to make any progress.
+
+The aim is to use your critical thinking, and your new found knowledge of Bash commands to find the password for the next level. To progress to the next level, you must end the ssh session and log in again using the new password.
+
+**You must end the ssh session with the exit command before attempting to log in again using the new password.**
+
+http://overthewire.org/wargames/bandit/
