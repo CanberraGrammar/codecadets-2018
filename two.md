@@ -128,18 +128,18 @@ print("Hello, " + name + "!")
 SSH is a way for you to be able to log into another computer (generally a server) remotely, and be presented with a Unix Based CLI to control the computer. This is a tool that you will certainly use if you continue on with Computer Science into University or practice it in the real world.
 
 You need 3 things to log into a remote client using SSH.
-- The SSH Link
+- The ssh URL
 - Username
 - Password
 
-For example, at the Australian National University, you can log into the computer lab computers from home to access all your saved documents/access tools that are installed on the university computers. The way we do this is by typing the follow into our Terminal window:
+For example, at the Australian National University, you can log into the computer lab computers from home to access all your saved documents/access tools that are installed on the university computers. The way we do this is by typing the follow into our Terminal window (uXXXXXXX being the username, and partch.anu.edu.au being the ssh URL):
 
 ```python
 ssh uXXXXXXX@partch.anu.edu.au
 ```
-Please note that this is just an example won't actually run for you, we don't have an active remote server for you to SSH into on hand.
+Please note that this is just an example and won't actually run for you.
 
-We then are prompted for our university username and password, and then we can access the university computers through our terminal windows, and perform commands such as copying over files to our local machine. To end an ssh session, you simply type:
+We then are prompted for our university password, and then we can access the university computers through our terminal windows, and perform commands such as copying over files to our local machine. To end an ssh session, you would simply type:
 
 ```Python
 exit
