@@ -20,4 +20,4 @@ Navigate to [try.github.io](https://try.github.io), and work through all the act
 - We will be continuing on with the Bandit challenge from [Week Two](two.md)
 - Each time you discover a password, add it to the `Password.txt` file, in the folder for the level you are on.
 - `git commit` and `git push` it so you can save your progress.
-- The aim is to get up to level 10
+- Your aim is to get up to level 10 by the end of the lesson
