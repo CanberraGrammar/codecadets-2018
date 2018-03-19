@@ -11,7 +11,7 @@ Navigate to [try.github.io](https://try.github.io), and work through all the act
 
 - Log into GitHub using the account you signed up from Week 1
 - Navigate to the [Code Cadets Git Template](https://github.com/eckersleyalexander/Code-Cadets-Git-Template)
-- 'Fork' the repo by clicking on the bottom in the top right to make your own copy of the repository
+- 'Fork' the repo by clicking on the button in the top right to make your own copy of the repository
 - Clone the repo to your local machine
 - Open up the project in Atom
 
