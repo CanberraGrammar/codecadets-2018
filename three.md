@@ -21,4 +21,6 @@ Navigate to [try.github.io](https://try.github.io), and work through all the act
 - commit and push it to your repository
 
 ### 3.3 | Bandit challenge again
-- go back to bandit, each time you discover a password, add it to the file, commit and push it so you can save your progress.
+- Return to [Weeks two's lab](two.md), connect back to the badint wargame server.
+- Each time you discover a password, add it to the `Password.txt` file, in the folder for the level you are on.
+- `git commit` and `git push` it so you can save your progress.
