@@ -12,8 +12,11 @@ Navigate to [try.github.io](https://try.github.io), and work through all the act
 - Log into GitHub using the account you signed up from Week 1
 - Navigate to the [Code Cadets Git Template](https://github.com/eckersleyalexander/Code-Cadets-Git-Template)
 - 'Fork' the repo by clicking on the button in the top right to make your own copy of the repository
-- Clone the repo to your local machine
-- Open up the project in Atom
+
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/ForkButton.png" alt="Forking a repo" style="width: 100%;"/>
+
+- Clone the repo to your local machine.
+- Open up the project in Atom.
 
 ### 3.3 | Bandit Challenge Cont.
 
