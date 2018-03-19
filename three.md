@@ -10,6 +10,10 @@ Navigate to [try.github.io](https://try.github.io), and work through all the act
 ### 3.2 | Setup a personal repository on GitLab
 
 - Login to GitLab with your github account
+
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/SignInWithHub.png" alt="Sign in with GitHub" style="width: 100%;"/>
+
+
 - create a repository called `bandit`
 - add your tutor as a reporter
 - clone it
