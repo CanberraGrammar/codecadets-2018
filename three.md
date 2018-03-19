@@ -17,4 +17,4 @@ Navigate to [try.github.io](https://try.github.io), and work through all the act
 - commit and push it to your repository
 
 ### 3.3 | Bandit challenge again
-- go back to bandit, each time you discover a passoword, add it to the file, commit and push it so you can save your progress.
+- go back to bandit, each time you discover a password, add it to the file, commit and push it so you can save your progress.
