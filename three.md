@@ -6,6 +6,8 @@ title: Week Three
 
 Navigate to [try.github.io](https://try.github.io), and work through all the activities for a brief introduction to Git and it's commands that you will run through terminal.
 
+This activity is relatively easy as the site will do the heavy lifting for you; please make an effort to read and understand what each command does. 
+
 ### 3.2 | Install git on your computer
 For Windows users only: install [Git for Windows](https://git-scm.com/download/win)
 
@@ -53,7 +55,7 @@ If you didn't start or forgot how to work with a remote server, here's a refresh
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/SSHStruct.png" alt="Structure of an SSH" style="width: 100%;"/>
 
-- Once that has connected you'll be asked for a password. For level zero this is `bandit0`. You may notice while in Terminal that the password isn't typing; **it is there, there are just no onscreen characters as a security choice**. 
+- Once that has connected you'll be asked for a password. For level zero this is `bandit0`. You may notice while in Terminal that the password isn't typing; **it is there, there are just no onscreen characters as a security choice**.
 
  - For all other levels the password will be the one you found in the previous level (write it down to your a file in your local git repo so you don't lose it).
 
