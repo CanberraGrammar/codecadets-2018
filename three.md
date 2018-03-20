@@ -22,7 +22,10 @@ For Mac users only:
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/ForkButton.png" alt="Forking a repo" style="width: 100%;"/>
 
-- Clone the repo to your local machine.
+- Clone the repo to your local machine. Go to Terminal, Navigate (cd) into the folder you wish to work from, and then run:
+
+> git clone https://github.com/eckersleyalexander/Code-Cadets-Git-Template.git
+
 - Open up the project in Atom.
 
 ### 3.4 | Bandit Challenge Cont.
