@@ -6,7 +6,7 @@ title: Week Three
 
 Navigate to [try.github.io](https://try.github.io), and work through all the activities for a brief introduction to Git and it's commands that you will run through terminal.
 
-This activity is relatively easy as the site will do the heavy lifting for you; please make an effort to read and understand what each command does. 
+This activity is relatively easy as the site will do the heavy lifting for you; please make an effort to read and understand what each command does.
 
 ### 3.2 | Install git on your computer
 For Windows users only: install [Git for Windows](https://git-scm.com/download/win)
@@ -60,3 +60,5 @@ If you didn't start or forgot how to work with a remote server, here's a refresh
  - For all other levels the password will be the one you found in the previous level (write it down to your a file in your local git repo so you don't lose it).
 
 - Use the commands you've learnt in terminal and the ones suggested on the Challenge's website to find files containing the passwords to the next level.
+
+- Remember to use the command `exit` to disconnect and logout before moving onto the next level.
