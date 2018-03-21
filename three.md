@@ -39,7 +39,7 @@ For Mac users only:
 
 If you didn't start or forgot how to work with a remote server, here's a refresher.
 
-- Open Terminal ssh into the bandit server of the level you're currently up to. To connect to level 0 type in `ssh bandit0@bandit.labs.overthewire.org -p 2220`.
+- Open Terminal ssh into the bandit server of the level you're currently up to. To connect to level 0 type in `ssh bandit0@bandit.labs.overthewire.org -p 2220`
 
 - If you don't understand what this all means, we'll break it down for you.
 
