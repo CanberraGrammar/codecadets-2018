@@ -24,7 +24,7 @@ For Mac users only:
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/ForkButton.png" alt="Forking a repo" style="width: 100%;"/>
 
-- Clone the repo to create a copy on your local machine. Go to Terminal, Navigate (cd) into the folder you wish to work from, and then run `git clone https://github.com/eckersleyalexander/Code-Cadets-Git-Template.git`. Replace the URL with your own one if you were able to fork your own repository.
+- Clone the repo to create a copy on your local machine. Go to Terminal, Navigate (cd) into the folder you wish to work from, and then run `git clone YOUR.FORKED.REPO.URL`. Replace the URL with your own one if you were able to fork your own repository.
 
 - Open up the project in Atom.
 
