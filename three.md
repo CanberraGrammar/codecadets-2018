@@ -62,5 +62,3 @@ If you didn't start or forgot how to work with a remote server, here's a refresh
 - Use the commands you've learnt in terminal and the ones suggested on the Challenge's website to find files containing the passwords to the next level.
 
 - Remember to use the command `exit` to disconnect and logout before moving onto the next level.
-
-- Hello World!
