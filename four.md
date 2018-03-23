@@ -23,11 +23,13 @@ By now you should be somewhat familiar with both navigating folders via Terminal
 | git clone URL | **Clones** the the repository at the **URL** you give the command, for example the GitHub address of the repo.
 | git pull | **Pulls** other commits down from the remote repo onto your local repo. |
 
+We don't expect you to know these all by heart though, it's a lot to remember, that's why we're giving them all to you here.
+
 ### 4.2 | Branching out
 
 Up until now you've worked with Git as a basic change saving tool and for remote storage, not unlike saving a file to the cloud.
 
-Now we want to start using Git to control versions of our project. And we will start with Branches.
+Now we want to start using Git to control versions of our project, and in future work together on the same programs. To do this, we will introduce Branches.
 
 ### 4.2.1 | What is a Branch?
 
@@ -39,29 +41,63 @@ So we need to create a development environment that is away from the live versio
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/Branches.png" alt="What branches look like" style="width: 100%;"/>
 
+In the above image, the Tree diagram depicts the structure of the repository's commit history, where the blue line depicts the main, "master" project, and the red line depicts a "Testing_Branch" that is off to the side. These two branches can be edited separately to each other by you or other users.
+
 ### 4.2.2 | Using branches
 
 * Start by creating a new repository on your GitHub. If you go to https://github.com/ and are signed in you should see a New Repository button like so.
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/NewRepo.png" alt="Creating a new Repo" style="width: 100%;"/>
 
+**If you get stuck on any of the following steps, the commands are in the table at the top of the page!**
+
 * Call it whatever you want, but make it something useful so you'll remember what it is later. Once created, clone your repo down onto your computer. You will need to copy and paste the link to your repo into the command.
 
-* `git checkout -b newBranchName` : Please replace newBranchName with a name of your choice.
+* Add some basic text files or Python scripts of your own to the repo, and commit and push the changes.
+
+* Create a new branch using `git checkout -b newBranchName` : Please replace newBranchName with a name of your choice.
+
+* Edit some of the files within your git repo while in this branch. For this activity the contents of the file itself are not particularly important.
+
+### 4.2.3 | Merging together
+
+*
+
+
 
 ### 4.3 | Conflicting messages
 
-If you didn't quite get that section on branches then perhaps give it a re-read, as in this section we will be using them again.
+If you didn't quite get that section on branches then perhaps give it a re-read, as in this section we will be using them again. Next we want to observe what happens if multiple branches modified the same content when you want them to go back together.
 
+* Create a new branch as we did before, and edit a file in the repo. **You will then need to close the file in the editor for this activity.**
 
-* Try and merge your changes. You should get a warning along the lines of `fatal: Exiting because of an unresolved conflict.`
+* Next, checkout back to your master branch and **edit the same file you edited in the test branch**.
 
-* Run up a `git status` to see what went wrong. It should tell you something like `both modified:   test.txt`.
+* Try and merge your changes on the two branches together. You should get a warning along the lines of `fatal: Exiting because of an unresolved conflict.`
 
-* Open your test file in Atom. There should be a large box showing you where the merge conflict is.
+* Run up a `git status` to see what went wrong. It should tell you something similar to `both modified:   test.txt`.
+
+* This is called a **"Merge Conflict"**, and if you work with others on the same code they can be quite a common problem.
+
+* Open your test file in Atom. There should be a large box showing you where the merge conflict is; along with the buttons "Use me" for your changes and their change.
+
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/MergeConflict.png" alt="Merge conflicts" style="width: 100%;"/>
+
+* Decide on which set of changes you want to keep. Either keep the Master changes, or accept and merge the test branch changes. Or you may want to take a combination of the two (you will have to remove the named markers, <<<<<, ===== and >>>>>)
 
 ### 4.4 | Asking Nicely
 
 Last time we got you to fork your own copy of a remote repo, and then clone that down onto your machine. Today will be very similar, we are going to:
+
+
+
+### 4.5 | Appendix
+
+Commands added in this session.
+
+| Command | Description |
+|---------|-------------|
+| git checkout -b branchName | Creates a new **branch** called branchName |
+| git checkout branchName | Switches the repo to the branch called brachName|
+| git merge branchName | **Merges** the changes in the specified branch. |
