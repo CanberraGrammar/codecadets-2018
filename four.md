@@ -4,13 +4,11 @@ title: Week 4
 
 ---
 
-### 4.1 | Progress with Git
+### 4.1 | Pushing forwards with Git
 
-Welcome back to another session in Git, quite possibly the most useful tool you'll learn with us.
+Welcome back to another session in Git, quite possibly the most useful real world tool you'll learn with us.
 
-If there are any concepts you don't remember, try going back over the content from [Week Three](three.md) before asking for help.
-
-By now you should be somewhat familiar with both navigating folders via Terminal and these useful git commands:
+If there are any Git concepts you don't remember, try looking over the content from [Week Three](three.md) before asking for help. By now you should be somewhat familiar with both navigating folders via Terminal and these useful git commands:
 
 | Command | Description |
 |---------|-------------|
@@ -59,9 +57,15 @@ In the above image, the Tree diagram depicts the structure of the repository's c
 
 * Edit some of the files within your git repo while in this branch. For this activity the contents of the file itself are not particularly important.
 
+* Save and commit your changes.
+
 ### 4.2.3 | Merging together
 
-*
+* If you run `git branch` you will see a list of all active branches in your repo. Use a git checkout to get back onto the Master branch.
+
+* Now we want to take the changes we made in the testing branch and put them into our main project. To do this, we will use `git merge branchName`. Push your changes to your remote repo.
+
+* You have successfully created and merged a branch in Git. It may be difficult to appreciate the significance of your success at the moment, but this is one of the most important steps to collaborative development using Git.
 
 
 
@@ -69,9 +73,9 @@ In the above image, the Tree diagram depicts the structure of the repository's c
 
 If you didn't quite get that section on branches then perhaps give it a re-read, as in this section we will be using them again. Next we want to observe what happens if multiple branches modified the same content when you want them to go back together.
 
-* Create a new branch as we did before, and edit a file in the repo. **You will then need to close the file in the editor for this activity.**
+* Create a new branch as we did before, and edit a file(s) in the repo. **You will then need to close the file in the editor for this activity.**
 
-* Next, checkout back to your master branch and **edit the same file you edited in the test branch**.
+* Next, checkout back to your master branch and **edit the same file(s) you edited in the test branch, but change something different than last time!**.
 
 * Try and merge your changes on the two branches together. You should get a warning along the lines of `fatal: Exiting because of an unresolved conflict.`
 
@@ -79,25 +83,34 @@ If you didn't quite get that section on branches then perhaps give it a re-read,
 
 * This is called a **"Merge Conflict"**, and if you work with others on the same code they can be quite a common problem.
 
-* Open your test file in Atom. There should be a large box showing you where the merge conflict is; along with the buttons "Use me" for your changes and their change.
+### 4.3.1 | Resolving the conflict
+
+* Open your test file in Atom. There should be a large box showing you where the merge conflict is; along with the buttons "Use me" for your changes and their changes.
 
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/MergeConflict.png" alt="Merge conflicts" style="width: 100%;"/>
 
-* Decide on which set of changes you want to keep. Either keep the Master changes, or accept and merge the test branch changes. Or you may want to take a combination of the two (you will have to remove the named markers, <<<<<, ===== and >>>>>)
+* Decide on which set of changes you want to keep. Either keep the Master changes, or accept and merge the test branch changes. Or you may want to take a combination of the two (you will have to remove the named markers, <<<<<, ===== and >>>>>).
 
-### 4.4 | Asking Nicely
+* Once you've settled on a final version, save the file(s) and commit your changes back to the master branch, and push back to your remote. The branch will now be joined back to the master.
 
-Last time we got you to fork your own copy of a remote repo, and then clone that down onto your machine. Today will be very similar, we are going to:
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/Conflict_Resolved.png" alt="Merge conflict resolved, branches rejoined" style="width: 100%;"/>
 
+### 4.4 | Working Together
 
+Last session we got you to fork your own copy of a remote repo, and then clone that down onto your machine. Today will be very similar, we are going to:
 
-### 4.5 | Appendix
+# !!!UNDER CONSTRUCTION!!!
 
-Commands added in this session.
+### 4.5 | Appendix - New Commands
+
+Now that you've made it this far, here is a list of the git commands we've added to our knowledge in this session.
+
+This could be a handy reference in future, although there will be plenty other sources on the internet you may want to use, such as [the GitHub Cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf).
 
 | Command | Description |
 |---------|-------------|
+|git branch | List all branches in the repo. |
 | git checkout -b branchName | Creates a new **branch** called branchName |
 | git checkout branchName | Switches the repo to the branch called brachName|
 | git merge branchName | **Merges** the changes in the specified branch. |
