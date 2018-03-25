@@ -121,11 +121,11 @@ Now that you've committed the changes to your branch, let's get it added to the 
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/NewRequest.png" alt="Create a new pull request" style="width: 100%;"/>
 
-* You will be taken to the following screen. Select your branch in the drop down menu labeled `compare`. If you don't see your branch, you likely failed to push it up.
+* You will be taken to the following screen. Select your branch in the drop down menu labeled `compare`. If you don't see your branch, you likely failed to push it up - if that is the case, go back over a few of the sections above.
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/PullRequest.png" alt="The Request" style="width: 100%;"/>
 
-* If your brach doesn't have any conflicts with existing files, it should merge it automatically. Once merged, check the repo's list of commits and you should be able to see yourself - if that is the case, go back over a few of the sections above.
+* If your brach doesn't have any conflicts with existing files, it should merge it automatically. Once merged, check the repo's list of commits and you should be able to see yourself.
 
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/MergeSuccess.png" alt="Request successful" style="width: 100%;"/>
