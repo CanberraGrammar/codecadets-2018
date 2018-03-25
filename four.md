@@ -37,7 +37,7 @@ Why would we want that? Well let's say we have a big App with lots of code, and 
 
 So we need to create a development environment that is away from the live version. Here is a small sample of a project with one branch used for testing a new feature.
 
-<img src="https://canberragrammar.github.io/codecadets-2018/Resources/Branches.png" alt="What branches look like" style="width: 100%;"/>
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/Branches.png" alt="What branches look like" style="width: 75%;"/>
 
 In the above image, the Tree diagram depicts the structure of the repository's commit history, where the blue line depicts the main, "master" project, and the red line depicts a "Testing_Branch" that is off to the side. These two branches can be edited separately to each other by you or other users.
 
@@ -94,7 +94,7 @@ If you didn't quite get that section on branches then perhaps give it a re-read,
 
 * Once you've settled on a final version, save the file(s) and commit your changes back to the master branch, and push back to your remote. The branch will now be joined back to the master.
 
-<img src="https://canberragrammar.github.io/codecadets-2018/Resources/Conflict_Resolved.png" alt="Merge conflict resolved, branches rejoined" style="width: 100%;"/>
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/Conflict_Resolved.png" alt="Merge conflict resolved, branches rejoined" style="width: 75%;"/>
 
 ### 4.4 | Working Together
 
@@ -113,7 +113,7 @@ Last session we got you to fork your own copy of a remote repo, and then clone t
 
 ### 4.4.1 | Creating a Pull Request
 
-Now that you've committed the changes to your branch, let's get it added to the master.
+Now that you've committed the changes to your branch, let's get it added to the Master branch of the project.
 
 * Go back to https://github.com/AGellel/Code-Cadets-Week-4
 
