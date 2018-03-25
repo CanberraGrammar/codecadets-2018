@@ -98,11 +98,43 @@ If you didn't quite get that section on branches then perhaps give it a re-read,
 
 ### 4.4 | Working Together
 
-Last session we got you to fork your own copy of a remote repo, and then clone that down onto your machine. Today will be very similar, we are going to:
+Last session we got you to fork your own copy of a remote repo, and then clone that down onto your machine. Today will be very similar, except you are going to directly clone one of our repos:
 
-# !!!UNDER CONSTRUCTION!!!
+* `git clone https://github.com/AGellel/Code-Cadets-Week-4/`
 
-### 4.5 | Appendix - New Commands
+* In this repo you should find a folder for the day of the week, and your class. Navigate to it, depending on your speed there may or may not be files in there already.
+
+* Create a new branch exactly like we have before. Make the branch name your **Firstname-Lastname** so we know who it is.
+
+* Create a new text or python file, and again name the file **Firstname-Lastname**, then add it to the repo and commit your changes.
+
+
+* Now, try to push your changes to our remote. **<font color="red" > You should get an error message telling you  </font>**`fatal: The current branch branchName has no upstream branch.` The Terminal will tell you how to add a branch to the remote, see if you can do it yourself.
+
+### 4.4.1 | Creating a Pull Request
+
+Now that you've committed the changes to your branch, let's get it added to the master.
+
+* Go back to https://github.com/AGellel/Code-Cadets-Week-4
+
+* On the main page you should a button that says `New pull request.`
+
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/NewRequest.png" alt="Create a new pull request" style="width: 100%;"/>
+
+* You will be taken to the following screen. Select your branch in the drop down menu labeled `compare`. If you don't see your branch, you likely failed to push it up.
+
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/PullRequest.png" alt="The Request" style="width: 100%;"/>
+
+* If your brach doesn't have any conflicts with existing files, it should merge it automatically. Once merged, check the repo's list of commits and you should be able to see yourself - if that is the case, go back over a few of the sections above.
+
+
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/MergeSuccess.png" alt="Request successful" style="width: 100%;"/>
+
+### 4.5 | Finishing up
+
+Congratulations, you've successfully merged a new file using git into our project. Git is the foundation of most collaborative software work in the real world; and of all the things you'll learn with us over this year this is likely the most practical skill.
+
+### 4.6 | Appendix - New Commands
 
 Now that you've made it this far, here is a list of the git commands we've added to our knowledge in this session.
 
