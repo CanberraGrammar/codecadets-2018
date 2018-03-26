@@ -106,7 +106,7 @@ Last session we got you to fork your own copy of a remote repo, and then clone t
 
 * Create a new branch exactly like we have before. Make the branch name your **Firstname-Lastname** so we know who it is.
 
-* Create a new text or python file, and again name the file **Firstname-Lastname**, then add it to the repo and commit your changes.
+* Create a new text or python file, and again name the file **Firstname-Lastname**, then add it to the repo and commit your changes. You will be able to change other people's files, but note that if you do the it's on you to deal with the resulting merge conflict.
 
 
 * Now, try to push your changes to our remote. **<font color="red" > You should get an error message telling you  </font>**`fatal: The current branch branchName has no upstream branch.` The Terminal will tell you how to add a branch to the remote, see if you can do it yourself.
@@ -129,6 +129,8 @@ Now that you've committed the changes to your branch, let's get it added to the 
 
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/MergeSuccess.png" alt="Request successful" style="width: 100%;"/>
+
+* Your tutor will then approve the merge request if it's acceptable. 
 
 ### 4.5 | Finishing up
 
