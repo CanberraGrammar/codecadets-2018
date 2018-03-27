@@ -45,9 +45,9 @@ During our second week, we will cover the Command Line Interface (Terminal for M
 
 In this third week, we will learn how to use Git - an extremely powerful version control system that is used industry-wide in computer science. Git helps us keep track of changes to an ongoing project, and allows us to revert changes back incase we make a mistake.
 
-###  Week Four | Git in Practice/Source Tree
+###  [Week Four | Git in Practice and as a collaborative tool](four.md)
 
-Our fourth week will be focussed on using Git in a practical way, by creating our first GitHub repository and covering more advanced aspects of Git such as Forking Repos, Rebasing & Resolving Merge Conflicts.
+Our fourth week will be focussed on using Git in a practical way, by creating our first GitHub repository and covering more advanced aspects of Git such as Forking Repos & Resolving Merge Conflicts.
 
 ###  Week Five | Introduction to C#
 
