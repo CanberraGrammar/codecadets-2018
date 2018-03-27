@@ -98,9 +98,11 @@ If you didn't quite get that section on branches then perhaps give it a re-read,
 
 ### 4.4 | Working Together
 
-Last session we got you to fork your own copy of a remote repo, and then clone that down onto your machine. Today will be very similar, except you are going to directly clone one of our repos:
+Last session we got you to fork your own copy of a remote repo, and then clone that down onto your machine. Today will be very similar.
 
-* `git clone https://github.com/AGellel/Code-Cadets-Week-4/`
+* Navigate to [https://github.com/eckersleyalexander/Code-Cadets-Week-4](https://github.com/eckersleyalexander/Code-Cadets-Week-4)
+
+* Fork your own copy of this repo
 
 * In this repo you should find a folder for the day of the week, and your class. Navigate to it, depending on your speed there may or may not be files in there already.
 
@@ -108,14 +110,13 @@ Last session we got you to fork your own copy of a remote repo, and then clone t
 
 * Create a new text or python file, and again name the file **Firstname-Lastname**, then add it to the repo and commit your changes. You will be able to change other people's files, but note that if you do the it's on you to deal with the resulting merge conflict.
 
-
 * Now, try to push your changes to our remote. **<font color="red" > You should get an error message telling you  </font>**`fatal: The current branch branchName has no upstream branch.` The Terminal will tell you how to add a branch to the remote, see if you can do it yourself.
 
 ### 4.4.1 | Creating a Pull Request
 
 Now that you've committed the changes to your branch, let's get it added to the Master branch of the project.
 
-* Go back to [https://github.com/AGellel/Code-Cadets-Week-4](https://github.com/AGellel/Code-Cadets-Week-4)
+* Go back to your Repo's page on GitHub
 
 * On the main page you should a button that says `New pull request.`
 
