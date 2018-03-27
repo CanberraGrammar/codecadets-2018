@@ -115,7 +115,7 @@ Last session we got you to fork your own copy of a remote repo, and then clone t
 
 Now that you've committed the changes to your branch, let's get it added to the Master branch of the project.
 
-* Go back to https://github.com/AGellel/Code-Cadets-Week-4
+* Go back to [https://github.com/AGellel/Code-Cadets-Week-4](https://github.com/AGellel/Code-Cadets-Week-4)
 
 * On the main page you should a button that says `New pull request.`
 
