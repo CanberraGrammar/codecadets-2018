@@ -130,11 +130,13 @@ Now that you've committed the changes to your branch, let's get it added to the 
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/MergeSuccess.png" alt="Request successful" style="width: 100%;"/>
 
-* Your tutor will then approve the merge request if it's acceptable. 
+* Your tutor will then approve the merge request if it's acceptable.
 
 ### 4.5 | Finishing up
 
 Congratulations, you've successfully merged a new file using git into our project. Git is the foundation of most collaborative software work in the real world; and of all the things you'll learn with us over this year this is likely the most practical skill.
+
+If you find yourself with excess time then continue the Bandit themed git activities from last week.
 
 ### 4.6 | Appendix - New Commands
 
