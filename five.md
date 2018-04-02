@@ -20,7 +20,7 @@ Welcome back for another week. We've now moved on from our Terminal and Git skil
 
 As C# is a language developed by Microsoft's .NET initiative, and as such it is not inherently compatible with Macs. We'll need some extra software if we want our terminal to be able to read it.
 
-Follow this link http://www.mono-project.com/download/stable/ and select the current stable version.
+Follow this link [http://www.mono-project.com/download/stable/](http://www.mono-project.com/download/stable/ ) and select the current stable version.
 
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/MonoStable.png" alt="Stable Version" style="width: 100%;"/>
