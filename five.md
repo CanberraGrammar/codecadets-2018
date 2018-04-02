@@ -6,7 +6,7 @@ title: Week 5
 
 ### 5.1 | Learning a new language
 
-Welcome back for another week. We've now moved on from our Terminal and Git skills content back into some typical programming. Today we will be introducing you to C#.
+Welcome back for another week. We've now moved on from our Terminal and Git skills content back into some typical programming. Today we will be introducing you to C#, with the main idea being to help you adjust from Python's syntax.
 
 ##### So why learn C#?
 
@@ -18,9 +18,15 @@ Welcome back for another week. We've now moved on from our Terminal and Git skil
 
 ### 5.1.1 | Installing Mono (Mac OS)
 
-As C# is a language developed by Microsoft's .NET initiative, it is not inherently compatible with Macs. We'll need some extra software if we want our terminal to be able to read it.
+As C# is a language developed by Microsoft's .NET initiative, and as such it is not inherently compatible with Macs. We'll need some extra software if we want our terminal to be able to read it.
 
-<font color="red" > UNDER CONSTRUCTION </font>
+Follow this link http://www.mono-project.com/download/stable/ and select the current stable version.
+
+
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/MonoStable.png" alt="Stable Version" style="width: 100%;"/>
+
+
+Run and install the package. The installer will give you the instructions as usual.
 
 
 ### 5.2 | Programming Fundamentals
@@ -43,7 +49,7 @@ In addition to this, majority of the datatypes you are already familiar with are
 |---------|-------------|
 | boolean (bool) | True or False. |
 | integer (int) | Whole numbers (not decimals or fractions) |
-| Charcter (chr/char) | Used to represent a single letter or symbol| 
+| Character (chr/char) | Used to represent a single letter or symbol|
 | String (str)| A list of characters |
 | <font color="red" > UNDER CONSTRUCTION </font> ||
 
@@ -111,20 +117,24 @@ for (int i = 1; i < 11; i++) {
 }  //This is a C# For Loop
 ```
 
-The C# For Loop syntax might look a little strange to you, so let's break it down a bit. After we intialise the loop we have 3 distinct parts.
+The C# For Loop syntax might look a little strange to you, so let's break it down a bit. After we initialise the loop we have 3 distinct parts.
 
 * `int i = 1`  : Variable i of datatype **integer** is the starter of our loop counter. This is the bottom of the range() in the Python example.
 
 * `i < 10`  : is our loop condition; in other words the loop will run only when i is less than 10. This is the top of the range() in the Python example,
 
-* `i++`  : is a shorthand for i = i + 1. This is the rule by which the loop counter changes each run.
+* `i++`  : is a shorthand for i = i + 1. This is the rule by which the loop counter changes each run, sometimes known as the 'step'.
 
 
-### 5.4 | Writing a C# Programming
+### 5.4 | Writing a C# Program
+
+Using Atom create a new file. When you save it, use the file extension `.cs`, similar to how for python you'd use `.py`
+
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/csExt.png" alt="C# .cs file extension" style="width: 50%;"/>
 
 <font color="red" > UNDER CONSTRUCTION </font>
 
-### 5.4.1 | Running a C# Program.
+### 5.4.1 | Running a C# Program
 
 C# compiles to a .exe format, which is great if you're on Windows; not so great for a Mac, as they have no native way to read them.
 
@@ -141,3 +151,8 @@ The code should output to the Terminal just like a Python script would.
 ### 5.5 | C# Challenges
 
 <font color="red" > UNDER CONSTRUCTION </font>
+
+
+### 5.6 | Back to bandit
+
+If you've finished everything else here feel free to return to the Bandit challenge from Weeks 2 and 3 to see how far you can get.
