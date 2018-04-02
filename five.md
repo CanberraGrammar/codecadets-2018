@@ -8,6 +8,8 @@ title: Week 5
 
 Welcome back for another week.
 
+<font color="red" > UNDER CONSTRUCTION </font>
+
 ### 5.1.1 | Why learn C#?
 
 Easy answer: it's the primary language used by the Unity Game Engine.
@@ -17,7 +19,7 @@ At present most of you are probably only familiar with Python.
 
 ### 5.1.2 | Installing Mono (Mac OS)
 
-
+<font color="red" > UNDER CONSTRUCTION </font>
 
 
 ### 5.2 | Programming Fundamentals
@@ -32,6 +34,12 @@ Most programming work can be easily divided down into 3 fundamental ideas.
 
 These 3 concepts are not language specific; you've learnt them all in Python, and they do not change in C#.
 
+### 5.2.1 | Datatypes
+
+In addition to this, majority of the datatypes you are already familiar with are universal to most languages.
+
+<font color="red" > UNDER CONSTRUCTION </font>
+
 ### 5.3 | Transitioning into a new Syntax
 
 Whilst the core concepts remain the same, their execution across various languages does not.
@@ -44,9 +52,44 @@ print('Hello World!') #This is Python
 Console.WriteLine("Hello World!"); //This is C#
 ```
 
------
+Aside from the different instruction names, you might notice that C# code each line ends in a semicolon `;`. This is an important thing to remember when coming from Python, which does not use these to mark line ends.
 
-### 5.3.3 | Looping around
+### 5.3.1 | Making decisions
+
+Below is a simple example of an If Else statement in the two languages. Both programs will output the same.
+
+```Python
+condition = True
+
+if condition:
+    print('The variable is set to true.')
+else:
+    print('The variable is set to false.')
+#This is a Python If Else statement  
+```
+
+```c
+bool condition = true
+
+if (condition) {
+  Console.WriteLine("The variable is set to true.");
+}
+else {
+  Console.WriteLine("The variable is set to false.");
+} //This is a C# If Else statement
+```
+
+Notice a couple of key differences here.
+
+* In C# we have to define the datatype of our variables, when in Python it is often implied. In this example, the variable `condition` is of the type boolean (true/false).
+
+  * C# : `bool condition = true`
+
+  * Python : `condition = True`
+
+* In Python we use a `:` and Tab spacing to indicate what is contained inside the statement. In C# the block of code is contained by `{  }`.
+
+### 5.3.2 | Looping around
 
 The following two For Loops do the same thing. They print the numbers 1 to 10 to the console.
 
@@ -70,7 +113,11 @@ The C# For Loop syntax might look a little strange to you, so let's break it dow
 * `i++`  : is a shorthand for i = i + 1. This is the rule by which the loop counter changes each run.
 
 
-### 5.4 | Running a C# Program.
+### 5.4 | Writing a C# Programming
+
+<font color="red" > UNDER CONSTRUCTION </font>
+
+### 5.4.1 | Running a C# Program.
 
 C# compiles to a .exe format, which is great if you're on Windows; not so great for a Mac, as they have no native way to read them.
 
@@ -82,4 +129,8 @@ This will create from fileName.cs an executable called fileName.exe, which we ca
 
 `mono fileName.exe`
 
+The code should output to the Terminal just like a Python script would.
+
 ### 5.5 | C# Challenges
+
+<font color="red" > UNDER CONSTRUCTION </font>
