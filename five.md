@@ -6,18 +6,19 @@ title: Week 5
 
 ### 5.1 | Learning a new language
 
-Welcome back for another week.
+Welcome back for another week. We've now moved on from our Terminal and Git skills content back into some typical programming. Today we will be introducing you to C#.
 
-<font color="red" > UNDER CONSTRUCTION </font>
-
-### 5.1.1 | Why learn C#?
-
-Easy answer: it's the primary language used by the Unity Game Engine.
-
-At present most of you are probably only familiar with Python.
+##### So why learn C#?
 
 
-### 5.1.2 | Installing Mono (Mac OS)
+* Easy answer: it's the primary language used by the Unity Game Engine which we will work in from Term 2.
+
+* At present most of you are probably only familiar with Python. If you go on to study or work in Software you will work in many different languages. We aim to help you realise that all most languages are actually quite similar, so you're not starting from scratch
+
+
+### 5.1.1 | Installing Mono (Mac OS)
+
+As C# is a language developed by Microsoft's .NET initiative, it is not inherently compatible with Macs. We'll need some extra software if we want our terminal to be able to read it.
 
 <font color="red" > UNDER CONSTRUCTION </font>
 
@@ -38,7 +39,13 @@ These 3 concepts are not language specific; you've learnt them all in Python, an
 
 In addition to this, majority of the datatypes you are already familiar with are universal to most languages.
 
-<font color="red" > UNDER CONSTRUCTION </font>
+| Datatype (common shorthand) | Description |
+|---------|-------------|
+| boolean (bool) | True or False. |
+| integer (int) | Whole numbers (not decimals or fractions) |
+| Charcter (chr/char) | Used to represent a single letter or symbol| 
+| String (str)| A list of characters |
+| <font color="red" > UNDER CONSTRUCTION </font> ||
 
 ### 5.3 | Transitioning into a new Syntax
 
