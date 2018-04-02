@@ -49,9 +49,10 @@ In addition to this, majority of the datatypes you are already familiar with are
 |---------|-------------|
 | boolean (bool) | True or False. |
 | integer (int) | Whole numbers (not decimals or fractions) |
-| Character (chr/char) | Used to represent a single letter or symbol|
+| float | A 'floating point value', represents decimal numbers such as 2.2 or 3.14159 |
+| character (chr/char) | Used to represent a single letter or symbol|
 | String (str)| A list of characters |
-| <font color="red" > UNDER CONSTRUCTION </font> ||
+| List | A ordered **list** of items of the same datatype paired with an index. |
 
 ### 5.3 | Transitioning into a new Syntax
 
@@ -132,9 +133,38 @@ Using Atom create a new file. When you save it, use the file extension `.cs`, si
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/csExt.png" alt="C# .cs file extension" style="width: 50%;"/>
 
-<font color="red" > UNDER CONSTRUCTION </font>
+Now, in comparison to Python, you'll need some extra parts to run C# file successfully. Copy and paste this segment of code into yours before you start.
 
-### 5.4.1 | Running a C# Program
+```cs
+using System;
+
+namespace MyProgram {
+   class MyClass {
+      static void Main(string[] args) {
+        // YOUR CODE GOES IN HERE
+        //
+        //
+        //
+      }
+    }
+}
+```
+
+To test this write a basic program similar to the any of activities you'd have seen in Grok. What it does isn't too important, we just want to test that it runs on your system.
+
+You may also want this command.
+
+```Python
+s = input(); #Input in Python
+```
+
+```cs
+string s = Console.ReadLine(); //Read input in C#
+```
+
+
+
+### 5.4.1 | Running a C# Program (Mac OS)
 
 C# compiles to a .exe format, which is great if you're on Windows; not so great for a Mac, as they have no native way to read them.
 
@@ -148,9 +178,29 @@ This will create from fileName.cs an executable called fileName.exe, which we ca
 
 The code should output to the Terminal just like a Python script would.
 
+### 5.4.2 | Running a C# Program (Windows)
+
+Navigate to the folder where the file is located in your Command Prompt. Run the following command to compile the code into an executable.
+
+`csc fileName.cs`
+
+Then, from here just type in the file name without the extensive, for example just `fileName` and it will run in the command line.
+
 ### 5.5 | C# Challenges
 
-<font color="red" > UNDER CONSTRUCTION </font>
+1. Write a program in C# that accepts a user input for a positive number called `n`, and then print all the numbers from `1` to `n`
+
+2. Write a `FizzBuzz` program. It prints all numbers from 1 to 100, but every number divisible by 3 is replaced with `Fizz`, every number divisible by 5 is replaced with `Buzz`, and any number divisible by 3 AND 5 is replaced with `FizzBuzz`.
+
+3. Write a program that takes user input for `height` and uses loops to output a pyramid made of asterisks of that height. E.g, the following pyramind is `height = 5`.
+
+```
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+```
 
 
 ### 5.6 | Back to bandit
