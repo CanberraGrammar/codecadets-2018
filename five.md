@@ -29,6 +29,15 @@ Follow this link [http://www.mono-project.com/download/stable/](http://www.mono-
 Run and install the package. The installer will give you the instructions as usual.
 
 
+
+### 5.1.2 | Installing the .NET Framework (Windows)
+
+Follow this link [https://www.microsoft.com/net/download/dotnet-framework-runtime](https://www.microsoft.com/net/download/dotnet-framework-runtime) to download the current version of Microsoft's .NET Framework. Then we need to add `csc.exe` to your PATH.
+
+To get the file path of the compiler program, type `dir /s %WINDIR%\CSC.EXE` into your command prompt (not this is **NOT** the Linux subsystem or Git Bash). This command will return the directory of the file by searching through subfolders.
+
+You'll then need to go to `My Computer -> Properties -> Advanced -> Environment Variables -> Path` and add the file path to the end of the list.
+
 ### 5.2 | Programming Fundamentals
 
 Most programming work can be easily divided down into 3 fundamental ideas.
