@@ -16,7 +16,7 @@ Welcome back for another week. We've now moved on from our Terminal and Git skil
 * At present most of you are probably only familiar with Python. If you go on to study or work in Software you will work in many different languages. We aim to help you realise that all most languages are actually quite similar, so you're not starting from scratch
 
 
-### 5.1.1 | Installing Mono (Mac OS)
+### 5.1.1 | Installing Mono
 
 As C# is a language developed by Microsoft's .NET initiative, and as such it is not inherently compatible with Macs. We'll need some extra software if we want our terminal to be able to read it.
 
@@ -29,14 +29,6 @@ Follow this link [http://www.mono-project.com/download/stable/](http://www.mono-
 Run and install the package. The installer will give you the instructions as usual.
 
 
-
-### 5.1.2 | Installing the .NET Framework (Windows)
-
-Follow this link [https://www.microsoft.com/net/download/dotnet-framework-runtime](https://www.microsoft.com/net/download/dotnet-framework-runtime) to download the current version of Microsoft's .NET Framework. Then we need to add `csc.exe` to your PATH.
-
-To get the file path of the compiler program, type `dir /s %WINDIR%\CSC.EXE` into your command prompt (not this is **NOT** the Linux subsystem or Git Bash). This command will return the directory of the file by searching through subfolders.
-
-You'll then need to go to `My Computer -> Properties -> Advanced -> Environment Variables -> Path` and add the file path to the end of the list.
 
 ### 5.2 | Programming Fundamentals
 
@@ -175,7 +167,7 @@ string s = Console.ReadLine(); //Read input in C#
 
 ### 5.4.1 | Running a C# Program (Mac OS)
 
-C# compiles to a .exe format, which is great if you're on Windows; not so great for a Mac, as they have no native way to read them.
+C# compiles to a .exe format, which is great if you're on Windows; not so great for a Mac, as they have no native way to read them. That said, Mono is a great tool for both Mac and Windows to make life easier.
 
 This is why we downloaded Mono earlier. Navigate in Terminal to the folder where your C# file is located and then run:
 
@@ -187,13 +179,7 @@ This will create from fileName.cs an executable called fileName.exe, which we ca
 
 The code should output to the Terminal just like a Python script would.
 
-### 5.4.2 | Running a C# Program (Windows)
 
-Navigate to the folder where the file is located in your Command Prompt. Run the following command to compile the code into an executable.
-
-`csc fileName.cs`
-
-Then, from here just type in the file name without the extensive, for example just `fileName` and it will run in the command line.
 
 ### 5.5 | C# Challenges
 
