@@ -92,7 +92,7 @@ else:
 ```
 
 ```c
-bool condition = true
+bool condition = true;
 
 if (condition) {
   Console.WriteLine("The variable is set to true.");
