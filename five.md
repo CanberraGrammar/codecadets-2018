@@ -165,7 +165,7 @@ string s = Console.ReadLine(); //Read input in C#
 
 
 
-### 5.4.1 | Running a C# Program (Mac OS)
+### 5.4.1 | Running a C# Program
 
 C# compiles to a .exe format, which is great if you're on Windows; not so great for a Mac, as they have no native way to read them. That said, Mono is a great tool for both Mac and Windows to make life easier.
 
