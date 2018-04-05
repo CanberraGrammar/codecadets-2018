@@ -28,6 +28,8 @@ Follow this link [http://www.mono-project.com/download/stable/](http://www.mono-
 
 Run and install the package. The installer will give you the instructions as usual.
 
+If you're on Windows you will need to add `C:\Program Files\Mono\bin` to your PATH under environment variables. Fastest way to get here is to type `Path` into your Windows search bar and select the first result. Ask your tutor for help if you can't find it.
+
 
 
 ### 5.2 | Programming Fundamentals
