@@ -53,12 +53,4 @@ Our fourth week will be focussed on using Git in a practical way, by creating ou
 
 An introduction to the C# language in preparation for moving onto to Unity. We'll mainly tackle syntax differences between C# and Python.
 
-###  Week Six
-
-###  Week Seven
-
-###  Week Eight
-
-### Week Nine
-
-### Week Ten
+###  Week Six | Programming Challenges
