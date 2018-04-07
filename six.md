@@ -36,13 +36,15 @@ namespace MyProgram {
 
 1. **(C# Warmup)** Write a program in C# that asks the user for their `name`, and then responds with `Hello there, name!`. For instance, if I entered `Alex`, it should say `Hello there, Alex!`.
 
-2. **(Easy)** Write a program that asks the user for an input and returns the following outputs.
+2. **(Easy)** To get you using C# If-statements, write a program that asks the user for an input and returns the following outputs.
 
-  * input = `Hello`; output = `Hello to you too`.
+  * input = `Hello`; output = `Hello to you too.`
 
-  * input = `Goodbye`; output = `Ok, see you later`
+  * input = `Goodbye`; output = `Ok, see you later.`
 
-  * input = `Hello there!`; output = `General Kenobi`.
+  * input = `How are you?`; output = `I am well.`
+
+  * For everything else, output `I didn't understand.` You can also add any custom IO pairs you would like.
 
 3. **(Easy)** Write a program that accepts user input for a `mark`, and output a grade accordingly. `(90+ = A; 80-89 = B; 70-79 = C; 60-69 = D; 50-59 = E and less than 50 = F)`.
 
