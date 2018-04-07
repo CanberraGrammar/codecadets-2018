@@ -12,8 +12,7 @@ Today we won't be introducing any new concepts. It's the last week of term, ever
 
 
 
-You do not have to do these in any particular order. If you get stuck on one feel free to try another.
-
+<font color='red'>You do not have to do these in any particular order, or complete all of them by the end of the session</font>, they are here to help you get better at writing C# code. If you get stuck on one feel free to try another.
 
 #### Reminder
 
@@ -33,20 +32,28 @@ namespace MyProgram {
 }
 ```
 
-### 6.2 | Selection challenges
+### 6.2 | Sequence and Selection challenges
 
-1. Write a program in C# that asks the user for their `name`, and then responds with `Hello there, name!`. For instance, if I entered `Alex`, it should say `Hello there, Alex!`.
+1. **(C# Warmup)** Write a program in C# that asks the user for their `name`, and then responds with `Hello there, name!`. For instance, if I entered `Alex`, it should say `Hello there, Alex!`.
 
-2.
+2. **(Easy)** Write a program that asks the user for an input and returns the following outputs.
+
+  * input = `Hello`; output = `Hello to you too`.
+
+  * input = `Goodbye`; output = `Ok, see you later`
+
+  * input = `Hello there!`; output = `General Kenobi`.
+
+3. **(Easy)** Write a program that accepts user input for a `mark`, and output a grade accordingly. `(90+ = A; 80-89 = B; 70-79 = C; 60-69 = D; 50-59 = E and less than 50 = F)`.
 
 
 ### 6.3 | Iteration Challenges
 
-1. Write a program in C# that accepts a user input for a positive number called `n`, and then print all the numbers from starting from `1` up to `n`.
+1. **(Easy)** Write a program in C# that accepts a user input for a positive number called `n`, and then print all the numbers from starting from `1` up to `n`.
 
-2. Write a program that accepts a user input for a positive number called `n`, and then print all the numbers from staring from `n` down to `1`.
+2. **(Easy)** Write a program that accepts a user input for a positive number called `n`, and then print all the numbers from staring from `n` down to `1`.
 
-3. Write a program that takes user input for `height` and uses loops to output a triangle made of asterisks (with spaces in between each) of that height. E.g, the following pyramid is `height = 5`.
+3. **(Medium)** Write a program that takes user input for `height` and uses loops to output a triangle made of asterisks (with spaces in between each) of that height. E.g, the following pyramid is `height = 5`.
 
 
 
@@ -57,7 +64,7 @@ namespace MyProgram {
 * * * *
 * * * * *
 ```
-For a more difficult challenge, try and make the triangle into a pyramid like so. The following example is also of `height = 5`. Your code should still work for **any possible height**.
+* **(Hard)** For a more difficult challenge, try and make the triangle into a pyramid like so. The following example is also of `height = 5`. Your code should still work for **any possible height**.
 
 ```
     *
@@ -72,11 +79,11 @@ For a more difficult challenge, try and make the triangle into a pyramid like so
 
 These challenges will require you to use loops **AND** if statements to complete.
 
-1. Write a `FizzBuzz` program. It prints all numbers from 1 to 100, but every number divisible by 3 is replaced with `Fizz`, every number divisible by 5 is replaced with `Buzz`, and any number divisible by 3 AND 5 is replaced with `FizzBuzz`.
+1. **(Medium)** Write a `FizzBuzz` program. It prints all numbers from 1 to 100, but every number divisible by 3 is replaced with `Fizz`, every number divisible by 5 is replaced with `Buzz`, and any number divisible by 3 AND 5 is replaced with `FizzBuzz`.
 
-2. Write a program that loops and asks the user for strings, responding each time with `That's a nice word`, until the user types in `STOP`, where the program will stop asking for input and print `Goodbye`.
+2. **(Medium)** Write a program that loops and asks the user for strings, responding each time with `That's a nice word`, until the user types in `STOP`, where the program will stop asking for input and print `Goodbye`.
 
-3. Create a program to calculate a student's average mark.
+3. **(Hard)** Create a program to calculate a student's average mark.
 
   * It should only accept a valid number from 0 to 100. No more and no less.
 
@@ -86,7 +93,7 @@ These challenges will require you to use loops **AND** if statements to complete
 
   * The formula for an average mark is all the marks added together then divided by the number of marks. For example, let's say I got 80, 72 and 94 on my tests, then `(80 + 72 + 94)/3 = 82` is my average. It's up to you to figure out how to keep track of these numbers during input.
 
-
+#### If you managed to finish all these challenges, ask your tutor to create some special custom challenge problems for you. These will likely be much harder.
 
 
 ### 6.5 | C# References
@@ -120,8 +127,11 @@ namespace MyProgram {
         if (condition) {
           Console.WriteLine("The variable is set to true.");
         }
+        else if (!condition){
+          Console.WriteLine("The variable is set to false, which is not true.");
+        }
         else {
-          Console.WriteLine("The variable is set to false.");
+          Console.WriteLine("This is the else if something unexpected happens");
         }
         //--------------------------------------
         //For loop
