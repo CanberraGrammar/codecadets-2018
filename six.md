@@ -35,7 +35,9 @@ namespace MyProgram {
 
 ### 6.2 | Selection challenges
 
-1. Write a program in C# that asks the user for their name, and then
+1. Write a program in C# that asks the user for their `name`, and then responds with `Hello there, name!`. For instance, if I entered `Alex`, it should say `Hello there, Alex!`.
+
+2.
 
 
 ### 6.3 | Iteration Challenges
@@ -71,6 +73,20 @@ For a more difficult challenge, try and make the triangle into a pyramid like so
 These challenges will require you to use loops **AND** if statements to complete.
 
 1. Write a `FizzBuzz` program. It prints all numbers from 1 to 100, but every number divisible by 3 is replaced with `Fizz`, every number divisible by 5 is replaced with `Buzz`, and any number divisible by 3 AND 5 is replaced with `FizzBuzz`.
+
+2. Write a program that loops and asks the user for strings, responding each time with `That's a nice word`, until the user types in `STOP`, where the program will stop asking for input and print `Goodbye`.
+
+3. Create a program to calculate a student's average mark.
+
+  * It should only accept a valid number from 0 to 100. No more and no less.
+
+  * The program should keep asking the user for a mark until they enter a number outside the range above. For example, when I put in the number `101` it should stop asking me for numbers. Do not record the value of this number.
+
+  * Once the loop asking for input has stopped, calculate the average mark.
+
+  * The formula for an average mark is all the marks added together then divided by the number of marks. For example, let's say I got 80, 72 and 94 on my tests, then `(80 + 72 + 94)/3 = 82` is my average. It's up to you to figure out how to keep track of these numbers during input.
+
+
 
 
 ### 6.5 | C# References
