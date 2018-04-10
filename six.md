@@ -32,6 +32,8 @@ namespace MyProgram {
 }
 ```
 
+For a list of useful operations and commands, look to the bottom of the page.
+
 ### 6.2 | Sequence and Selection challenges
 
 1. **(C# Warmup)** Write a program in C# that asks the user for their `name`, and then responds with `Hello there, name!`. For instance, if I entered `Alex`, it should say `Hello there, Alex!`.

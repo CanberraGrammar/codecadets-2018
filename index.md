@@ -22,6 +22,7 @@ Firstly, welcome to Code Cadets! This year we're going to be exploring three key
 | [1.3](three.md)                |                        | Introduction to Git           | Setup for Git Creating version control accounts on GitHub Using Git within terminal         | Usage of pull requests to edit this website |
 | [1.4](four.md)                |                        | Git in Practice               | Alternative methods of using Git                                                            | Submitting a python task to GitHub          |
 | [1.5](five.md)                | Programming in Practice      | Introduction to C#            |                                                                                             |                                             |
+| [1.6](six.md) |  | End of Term | Programming Challenges | Finish any unfinished should you wish|
 
 ### Computing Fundamentals (Week 1 - 4)
 
@@ -53,4 +54,6 @@ Our fourth week will be focussed on using Git in a practical way, by creating ou
 
 An introduction to the C# language in preparation for moving onto to Unity. We'll mainly tackle syntax differences between C# and Python.
 
-###  Week Six | Programming Challenges
+###  [Week Six | Programming Challenges](six.md)
+
+For the final Week of Term 1 we've opted not to introduce any new concepts to you, but rather to keep C# in your mind by setting some challenge questions to test you understand C#.
