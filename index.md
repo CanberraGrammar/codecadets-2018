@@ -26,7 +26,7 @@ Firstly, welcome to Code Cadets! This year we're going to be exploring three key
 
 ### Computing Fundamentals (Week 1 - 4)
 
-### Programming in Practice (Week 5)
+### Programming in Practice (Week 5 - 6)
 
 ### Unity Game Development
 
