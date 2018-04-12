@@ -12,7 +12,7 @@ Today we won't be introducing any new concepts. It's the last week of term, ever
 
 
 
-<font color='red'>You do not have to do these in any particular order, or complete all of them by the end of the session</font>, they are here to help you get better at writing C# code. If you get stuck on one feel free to try another.
+<font color='red'>You do not have to do these in any particular order, or complete all of them by the end of the session</font>They are here to help you get better at writing C# code. If you get stuck on one feel free to try another.
 
 #### Reminder
 
@@ -103,6 +103,20 @@ These challenges will require you to use loops **AND** if statements to complete
 ### 6.5 | C# References
 
 Looking for a reminder of what a certain operation looks like in C#? Look no further, here are all the tasks you'd probably want for today's session, but of course, there's always other ways to solve a problem.
+
+
+```cs
+using System;
+//A Sample Hello World Program
+namespace MyProgram {
+   class MyClass {
+      static void Main(string[] args) {
+          Console.WriteLine("Hello World!");
+      }
+    }
+}
+```
+
 
 ```cs
 //The following is examples of different code elements in C#
