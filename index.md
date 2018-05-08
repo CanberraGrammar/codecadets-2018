@@ -15,6 +15,15 @@ Firstly, welcome to Code Cadets! This year we're going to be exploring three key
 
 ### Course Outline
 
+## Term 2
+
+###  [Week 1 | Getting started with Unity](unityintro.md)
+
+
+
+
+## Term 1
+
 | Period (Term.Week) | Area                   | Topic                         | Content                                                                                     | Extension                                   |
 |-----|------------------------|-------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------|
 | [1.1](one.md)                | Computing Fundamentals | Introduction to Code Cadets   | Introduction to computing Installation of Atom and Git Developing familiarity with Terminal | N/A                                         |
