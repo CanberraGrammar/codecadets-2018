@@ -24,7 +24,8 @@ Your details are already registered into the system:
 
 * Username: YOURIDNUMBER@cgs.act.edu.au
 
-  * This is the number you use to log into school computers, for example 17121@cgd.act.edu.au
+  * This is the number you use to log into school computers, for example 17121@cgs.act.edu.au
+  
 
 * Password: "cgs" followed by your birthday and year in YYYYMMDD format
 
