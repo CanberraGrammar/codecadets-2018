@@ -14,7 +14,7 @@ title: Week 1
 
 This is the most important link from here on out. We recommend you bookmark it somewhere.
 
-# http://unity.codecadets.com
+# [http://unity.codecadets.com](http://unity.codecadets.com)
 
 The courseware contains a series of short videos divided into distinct chapters, designed to guide you through the game design and development process. As such, it will be important for you to bring headphones to this and future sessions of Code Cadets as to not disturb others.
 
@@ -25,7 +25,7 @@ Your details are already registered into the system:
 * Username: YOURIDNUMBER@cgs.act.edu.au
 
   * This is the number you use to log into school computers, for example 17121@cgs.act.edu.au
-  
+
 
 * Password: "cgs" followed by your birthday and year in YYYYMMDD format
 
@@ -38,7 +38,7 @@ This content will make up most of what we do from here on it, so it's quite impo
 
 You will need to download a version of the Unity 3D Engine. Follow the link below to start this:
 
-### https://store.unity.com/download?ref=personal
+### [https://store.unity.com/download?ref=personal](https://store.unity.com/download?ref=personal)
 
 * Accept the Terms of Conditions
 
