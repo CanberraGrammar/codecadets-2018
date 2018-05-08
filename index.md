@@ -17,7 +17,7 @@ Firstly, welcome to Code Cadets! This year we're going to be exploring three key
 
 ## Term 2 - Unity Game Development
 
-###  [Week 1 | Getting started with Unity](unityintro.md)
+###  [Week 1 | Getting started with Unity](unityintro.html)
 
 
 
