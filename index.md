@@ -15,14 +15,14 @@ Firstly, welcome to Code Cadets! This year we're going to be exploring three key
 
 ### Course Outline
 
-## Term 2
+## Term 2 - Unity Game Development
 
 ###  [Week 1 | Getting started with Unity](unityintro.md)
 
 
 
 
-## Term 1
+## Term 1 - Programming Fundamentals and Skills
 
 | Period (Term.Week) | Area                   | Topic                         | Content                                                                                     | Extension                                   |
 |-----|------------------------|-------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -36,8 +36,6 @@ Firstly, welcome to Code Cadets! This year we're going to be exploring three key
 ### Computing Fundamentals (Week 1 - 4)
 
 ### Programming in Practice (Week 5 - 6)
-
-### Unity Game Development
 
 ## Sessions
 

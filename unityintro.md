@@ -24,7 +24,7 @@ You will need to download a version of the Unity 3D Engine. Follow the link belo
 
 This is the most important link from here on out. We recommend you bookmark it somewhere.
 
-### http://unity.codecadets.com
+# http://unity.codecadets.com
 
 
 
