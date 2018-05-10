@@ -40,6 +40,10 @@ You will need to download a version of the Unity 3D Engine. Follow the link belo
 
 ### [https://store.unity.com/download?ref=personal](https://store.unity.com/download?ref=personal)
 
+OR
+
+###[http://cdn.codecadets.com/](http://cdn.codecadets.com/)
+
 * Accept the Terms of Conditions
 
 * Click "Download Installer for Mac OS X" / "Download Installer for Windows"
