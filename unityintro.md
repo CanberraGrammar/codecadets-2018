@@ -42,7 +42,7 @@ You will need to download a version of the Unity 3D Engine. Follow the link belo
 
 OR
 
-###[http://cdn.codecadets.com/](http://cdn.codecadets.com/)
+### [http://cdn.codecadets.com/](http://cdn.codecadets.com/)
 
 * Accept the Terms of Conditions
 
