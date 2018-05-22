@@ -19,6 +19,10 @@ Firstly, welcome to Code Cadets! This year we're going to be exploring three key
 
 ###  [Week 1 | Getting started with Unity](unityintro.html)
 
+### Weeks 2 and 3 | No Specific Page, just familiarise with Unity and the courseware
+
+### Weeks 5 and 6 | Tutors away on Exams, no Class
+
 
 
 
