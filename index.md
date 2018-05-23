@@ -21,7 +21,7 @@ Firstly, welcome to Code Cadets! This year we're going to be exploring three key
 
 ### Weeks 2 and 3 | No Specific Page, just familiarise with Unity and the courseware
 
-### Weeks 5 and 6 | Tutors away on Exams, no Class
+### Weeks 4 and 5 | Tutors away on Exams, no Class
 
 
 
