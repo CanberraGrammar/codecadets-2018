@@ -12,7 +12,11 @@ title: Weeks 6 and 7
 
 ### The goal : build a level and map
 
-A level is the basis of all games.
+A level is the basis of all games. For these sessions we want to have finished building it so that we can move onto placing our player, enemies and implementing attacks and AI using actual code.
+
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/CourseMap.png" alt="" style="width: 100%;"/>
+
+The courseware intends for you to build the map depicted here. Yours does not need to exactly follow this template, but it's a useful reference point for a simple level design.
 
 ### The Terrain tool
 
