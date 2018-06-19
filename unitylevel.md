@@ -32,7 +32,7 @@ And add textures to your terrain.
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/TerrainTexture.png" alt="" style="width: 100%;"/>
 
-Further referencing: https://docs.unity3d.com/Manual/terrain-UsingTerrains.html
+Further referencing: [https://docs.unity3d.com/Manual/terrain-UsingTerrains.html](https://docs.unity3d.com/Manual/terrain-UsingTerrains.html)
 
 ### Useful Resources
 
