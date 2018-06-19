@@ -24,6 +24,10 @@ You can use the various brushes (see on the right) to create various mappings of
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/Terrain.png" alt="" style="width: 100%;"/>
 
+And add textures to your terrain.
+
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/TerrainTexture.png" alt="" style="width: 100%;"/>
+
 Further referencing: https://docs.unity3d.com/Manual/terrain-UsingTerrains.html
 
 ### Useful Resources
