@@ -23,6 +23,9 @@ Firstly, welcome to Code Cadets! This year we're going to be exploring three key
 
 ### Weeks 4 and 5 | Tutors away on Exams, no Class
 
+### [Weeks 6 and 7| Getting back into unity, building a level](unitylevel.html)
+
+
 
 
 
