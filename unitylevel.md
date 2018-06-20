@@ -28,9 +28,13 @@ You can use the various brushes (see on the right) to create various mappings of
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/Terrain.png" alt="" style="width: 100%;"/>
 
-And add textures to your terrain.
+And add textures to your terrain. You can use any texture currently in the Project Files that you've downloaded from the Unity store.
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/TerrainTexture.png" alt="" style="width: 100%;"/>
+
+You can also import downloaded images for custom terrains from the menu like so.
+
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/ImportNew.png" alt="" style="width: 100%;"/>
 
 Further referencing: [https://docs.unity3d.com/Manual/terrain-UsingTerrains.html](https://docs.unity3d.com/Manual/terrain-UsingTerrains.html)
 
