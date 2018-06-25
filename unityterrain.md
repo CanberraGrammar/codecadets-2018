@@ -5,7 +5,7 @@ title: Unity terrain
 ---
 
 
-### The goal : build a natural terrain environment
+### The goal: build a natural terrain environment
 
 Many games incorporate outdoor environments, they may look difficult but they are surprisingly easy to create in unity.
 
@@ -21,7 +21,7 @@ You should have something that looks vaguely like this.
 
 ### Import assets
 
-In order to make your dull grey terrain look natural, you need textures. For this exercise we will use the sample unity textures but remember you are free to download textures from the asset store.
+In order to make your dull grey terrain look natural, you need textures. For this exercise we will use the sample unity textures, but remember you are free to download textures from the asset store.
 
 `TO-DO` import assets from the assets menu: Navigate to `Assets > Import Package > Environment`
 
@@ -37,17 +37,18 @@ Select your terrain by clicking on it, then look at the inspector on the right.
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/unityterrain/4_edit_textures_button.PNG" alt="edit textures" style="width: 100%;"/>
 
-Click on `add texture`, then select. Search for grass, you should see a grass texture, this one will cover the entire terrain by default. If you want your primary ground texture to be something like sand, add that one first as it will cover the whole terrain.
+Click on `add texture`, then one of the `select` squares. Search for grass, you should see a grass texture, this one will cover the entire terrain by default. If you want your primary ground texture to be something like sand, add that one first as it will cover the whole terrain.
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/unityterrain/5_add_texture.png" alt="add textures" style="width: 100%;"/>
 
-Add more than one texture for variety, int he example there is grass and sand but you may find more to use.
+Add more than one texture for variety, in this example there is grass and sand but you may find more to use.
 
-`TO-DO` use an alternate texture you create variety in your terrain. Select the `Paint Texture` tool and choose a brush, then you can paint that texture on your terrain.
+`TO-DO` use an alternate texture to create variety in your terrain. Select the `Paint Texture` tool and choose a brush, then you can paint that texture on your terrain.
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/unityterrain/6_texture_paint.PNG" alt="paint textures" style="width: 100%;"/>
 
 To further diversify your terrain, you may wish to add trees to make a forrest.
+
 `TO-DO` select the `Paint Trees` tool and add a tree texture by clicking the `Edit Trees` button.
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/unityterrain/7_edit_trees.PNG" alt="tree textures" style="width: 100%;"/>
@@ -70,5 +71,5 @@ Click the small dot and select a grass texture, you can search for 'grass' to se
 
 Paint grass onto your terrain, you have to close to it to be able to see it, as the render distance is quite low.
 
-<img src="https://canberragrammar.github.io/codecadets-2018/Resources/unityterrain/112_paint_grass.PNG" alt="paint textures" style="width: 100%;"/>
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/unityterrain/12_paint_grass.PNG" alt="paint textures" style="width: 100%;"/>
 
