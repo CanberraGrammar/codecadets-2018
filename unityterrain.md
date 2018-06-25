@@ -29,8 +29,9 @@ In order to make your dull grey terrain look natural, you need textures. For thi
 
 Click import in the pop-up window
 
-## Texture the Terrain
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/unityterrain/3_import.png" alt="import" style="width: 100%;"/>
+
+## Texture the Terrain
 
 Select your terrain by clicking on it, then look at the inspector on the right.
 
@@ -46,9 +47,10 @@ Add more than one texture for variety, in this example there is grass and sand b
 
 `TO-DO` use an alternate texture to create variety in your terrain. Select the `Paint Texture` tool and choose a brush, then you can paint that texture on your terrain.
 
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/unityterrain/6_texture_paint.PNG" alt="paint textures" style="width: 100%;"/>
+
 ## Add Trees to your Scene
 
-<img src="https://canberragrammar.github.io/codecadets-2018/Resources/unityterrain/6_texture_paint.PNG" alt="paint textures" style="width: 100%;"/>
 
 To further diversify your terrain, you may wish to add trees to make a forrest.
 
@@ -62,8 +64,9 @@ Click on the small dot to select a tree texture. Then click `Add`.
 
 Paint trees onto your terrain, play with the `brush size` and `tree density` options for different effects.
 
-## Add Extra Details 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/unityterrain/9_paint_trees.PNG" alt="pint trees" style="width: 100%;"/>
+
+## Add Extra Details 
 
 `TO-DO` add extra detail to your terrain with grass. Click on the `Paint Details` tool, then the `Edit Details` button.
 
