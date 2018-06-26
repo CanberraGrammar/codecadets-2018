@@ -90,11 +90,11 @@ Start by selecting your terrain in the Hierarchy menu. Follow to the top bar, an
 Component -> Physics -> Terrain Collider
 ```
 
-<img src="https://canberragrammar.github.io/codecadets-2018/Resources/unityterrain/TerrainCollider.PNG" alt="Adding collision to your ground" style="width: 100%;"/>
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/unityterrain/TerrainCollider.png" alt="Adding collision to your ground" style="width: 100%;"/>
 
 The properties of the terrain collider will appear over in the inspector for your terrain.
 
-<img src="https://canberragrammar.github.io/codecadets-2018/Resources/unityterrain/TerrainCollider_2.PNG" alt="It appears over here" style="width: 100%;"/>
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/unityterrain/TerrainCollider_2.png" alt="It appears over here" style="width: 100%;"/>
 
 Next, add two things to your object in the world. Select your object, and go to the physics menu again and add these two things.
 
@@ -102,7 +102,7 @@ Next, add two things to your object in the world. Select your object, and go to 
 
 * An appropriately shaped collider. Box will work for more objects, but if you have a different shape like a ball you would want a sphere. This will stop your falling object from just phasing through the floor.
 
-<img src="https://canberragrammar.github.io/codecadets-2018/Resources/unityterrain/ObjectColliders.PNG" alt="Add collision to your objects" style="width: 100%;"/>
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/unityterrain/ObjectColliders.png" alt="Add collision to your objects" style="width: 100%;"/>
 
 
 If done correctly, your object should fall naturally and stop on the ground like so.
