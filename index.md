@@ -15,6 +15,12 @@ Firstly, welcome to Code Cadets! This year we're going to be exploring three key
 
 ### Course Outline
 
+
+## Term 3 - Unity and C# Programming
+
+### [Weeks 1 and 2 | Simple Movement implementation from scratch](playable.md)
+
+
 ## Term 2 - Unity Game Development
 
 ###  [Week 1 | Getting started with Unity](unityintro.html)
