@@ -51,7 +51,7 @@ When you created the new project there should've been a default camera in the wo
 
 Add a Main Camera to the Heirarchy of the Object you want to move. If your main Camera isn't in the world still, ```GameObject -> Camera```.
 
-<img src="https://canberragrammar.github.io/codecadets-2018/Resources/NewCamera.png" alt="" style="width: 100%;"/>
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/NewCamera.png" alt="" style="width: 40%;"/>
 
 ### Providing mobility
 
