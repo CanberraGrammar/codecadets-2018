@@ -20,13 +20,7 @@ This lab is designed to last one to two sessions depending on your speed.
 
 We covered this last time but seeing as it's been a while, let's do it again.
 
-Start by selecting your terrain in the Hierarchy menu. Follow to the top bar, and select
-
-```
-Component -> Physics -> Terrain Collider
-```
-
-<img src="https://canberragrammar.github.io/codecadets-2018/Resources/unityterrain/TerrainCollider.png" alt="Adding collision to your ground" style="width: 100%;"/>
+Start by selecting your terrain in the Hierarchy menu. 
 
 The properties of the terrain collider will appear over in the inspector for your terrain.
 
