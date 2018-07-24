@@ -134,3 +134,10 @@ We need another expression here, ```Input.GetAxis("AxisName")``` where AxisName 
 An example of a full basic movement translation like this: ```transform.Translate(Input.GetAxis("Horizontal") * Time.deltaTime, 0, Input.GetAxis("Vertical") * Time.deltaTime);```
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/Moving.gif" alt="" style="width: 100%;"/>
+
+### Finished all this? Try and implement a basic jump using the knowledge gained here, and make Spacebar the Jump button.
+
+
+-----
+
+Section to be expanded for Week 2 - More Advanced Movement
