@@ -26,6 +26,8 @@ Start by selecting your terrain in the Hierarchy menu. Follow to the top bar, an
 Component -> Physics -> Terrain Collider
 ```
 
+This is likely already added by default, you should be able to see it in the inspector for your terrain.
+
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/unityterrain/TerrainCollider.png" alt="Adding collision to your ground" style="width: 100%;"/>
 
 The properties of the terrain collider will appear over in the inspector for your terrain.
@@ -140,4 +142,65 @@ An example of a full basic movement translation like this: ```transform.Translat
 
 -----
 
-Section to be expanded for Week 2 - More Advanced Movement
+### Week 2 - Adding onto it.
+
+This week we will continue to look at basic movement as a means of understanding how code interacts with our game objects.
+
+
+
+#### Cleaning up. Adding a public property
+
+Last time we used the expression ``` 10 * Time.deltaTime``` (or any number of your choice) in every parameter of transform.Translate. Let's clean that up a little. Near, the top of your file, under the class declaration add the following line: ``` public float speed = 10 * Time.deltaTime;```
+
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/Cleanup.png" alt="" style="width: 100%;"/>
+
+Now we can easily condense our movement code so it is easier to read.
+
+```cs
+transform.Translate(Input.GetAxis("Horizontal") * speed, 0, speed * Input.GetAxis("Vertical"));
+
+//Notice how I can put speed on either
+//side of our input. It doesn't matter.
+```
+The property will also appear in our unity editor.
+
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/Property.png" alt="" style="width: 100%;"/>
+
+#### Another Axis: Simple Jumping
+
+At the end of last week I asked you to try and create a jump using what you'd learnt in the previous session. The solution was adding ```Input.GetAxis("Jump") * Time.deltaTime``` to the Y-value parameter of your Movement function.
+
+
+#### Using Position as a variable: Create a safety net
+
+Right now if your object goes off the side of the map it will spiral forever into the infinite void.
+
+First things first, you want a way to access your values. For instance, let's store our object's Y Value in a variable like so ```float ypos = transform.position.y;```.
+
+Then, using our knowledge of if statements, we want to make a condition in our *update* method that detects if ```ypos``` has gone below the height of our terrain. In case you've forgotten, C# If statements use curly braces like so:
+
+``` cs
+if (condition) {
+	//Your code
+}
+```
+
+Once you've made this condition, you'll want to over wright your object's current position in order to teleport it somewhere safe.
+
+```c
+Vector3 temp = new Vector3(x, y, z);
+this.transform.position = temp;
+```
+
+A Vector3 is a special Datatype to represent 3D space. Set the x,y,z set to coordinates somewhere on your map, and then try walk off the edge to see if it works.
+
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/Teleport.gif" alt="" style="width: 100%;"/>
+
+#### Mapping Mouse to look around
+
+We want to map a *very basic* rotation to your mouse so that you can see the X,Y,Z movement of your object is relative to your current position, and not fixed to a grid. You'll need this function: ```transform.Rotate(X,Y,Z,0);```, which behaves very similarly to the Translate function you've used that far. Map the Y variable to the input for the "Mouse X" axis similar to before, and see what happens.
+
+
+#### Finished this?
+
+The Unity Courseware videos has a section on PlayerMovement. If you've download the Zombie Toys assets, check out their script in the Project Menu under ```Assets -> Scripts -> Player -> PlayerMovement.cs```.
