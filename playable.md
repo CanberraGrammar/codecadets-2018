@@ -194,7 +194,7 @@ this.transform.position = temp;
 
 A Vector3 is a special Datatype to represent 3D space. Set the x,y,z set to coordinates somewhere on your map, and then try walk off the edge to see if it works.
 
-<img src="https://canberragrammar.github.io/codecadets-2018/Resources/Teleport.gif" alt="" style="width: 100%;"/>
+<!--<img src="https://canberragrammar.github.io/codecadets-2018/Resources/telepor.gif" alt="" style="width: 100%;"/>-->
 
 #### Mapping Mouse to look around
 
