@@ -1,6 +1,6 @@
 ---
 
-title: Final Week of Term 2
+title: Movement: Start of Term 3
 
 ---
 
@@ -204,3 +204,6 @@ We want to map a *very basic* rotation to your mouse so that you can see the X,Y
 #### Finished this?
 
 The Unity Courseware videos has a section on PlayerMovement. If you've download the Zombie Toys assets, check out their script in the Project Menu under ```Assets -> Scripts -> Player -> PlayerMovement.cs```.
+
+
+### The most important thing to have got out of these sessions is to have a better understanding of how a script interacts with objects. The focus was not movement itself, we want to use code to control and influence items in our world.
