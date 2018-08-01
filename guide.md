@@ -60,6 +60,14 @@ We prefer it if you stay for the whole session and ask that if you anticipate le
 
 ## Expectations
 
+### We're making games, I'm allowed to play them right? Doesn't that mean I can play any games?
+
+No. As tutors we're well aware of when a student is making a game and testing it against just playing games in the sessions. As with all other classes, you're violating the technology usage agreement you agree to as a student of Canberra Grammar if we find you're playing games that weren't developed by you or weren't aiding in your game development research (which requires prior permission).
+
+If we find that you're violating the technology usage agreement we may contact your parents, your housemaster or you to remind you of our expectations of the sessions.
+
+## Other Questions
+
 ### I feel as though I'm slipping behind on the content, is it worth staying on?
 
 Definitely! These things happen and sometimes you can lose your way. Let [your tutor](#People) know that you're having difficulty keeping up or understanding something and we'll be happy to work through your troubles one-on-one.
