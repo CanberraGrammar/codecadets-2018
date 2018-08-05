@@ -16,6 +16,7 @@ title: Script Interaction
 
 * How they can pass information and make each other perform actions.
 
+I have given you **every line of code you need**, but not the final script. It's important you understand where each line of code goes based on your needs.
 
 ### Set up
 
@@ -76,19 +77,29 @@ Now we want to add to it so we can send an object from one teleporter to another
 Similar to speed last week, add a public property to your script of type "Transform".
 
 ```cs
-public Transform target;
+public Teleporter target;
 ```
 This will add the property to our unity editor like so:
 
-<img src="https://canberragrammar.github.io/codecadets-2018/Resources/teleProp.png" alt="" style="width: 40%;"/>
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/teleProp.png" alt="" style="width: 50%;"/>
 
 Copy and paste your original teleporter so that you have two in the world now. Now, select your first teleporter and **drag** the second telepoter from the heirarchy menu into the target property.
 
 
-<img src="https://canberragrammar.github.io/codecadets-2018/Resources/DragProp.png" alt="" style="width: 40%;"/>
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/DragProp.png" alt="" style="width: 100%;"/>
 
 
-Do the same for Teleporter 2, add Teleporter 1 as its target.
+Do the same for Teleporter 2, add Teleporter 1 as its target. Now that we have this property, we can use it as our destination coordinates.
+
+```cs
+//Our new destination value, replacing the old one.
+Vector3 destination = target.gameObject.transform.position;
+destination.y = destination.y + 2;
+//Set "other"'s position match
+other.gameObject.transform.position = destination;
+//Optional: match target rotation
+other.gameObject.transform.rotation = target.gameObect.transform.rotation;
+```
 
 ### Stopping the chaos
 
@@ -96,8 +107,36 @@ If you've got this far, you should have a pair of teleport pads that warp an obj
 
 Now we need to turn off the teleporters for a couple of seconds after we've travelled through in order to prevent this.
 
+Up with the target property, add this value:
 
-<font color="red">TO DO: Cooldown timer</font>
+```cs
+float cooldown = 0f;
+```
+Then in the condition for your teleporter detection, add ```&& cooldown <= 0``` so that it also doesn't teleport your player while it's on cooldown. The condition from before will look more like this now:
+
+```cs
+if (other.gameObject.name == "Cube" && cooldown <= 0){
+
+}
+```
+
+After this, inside the condition, after an object goes through the teleporter we need to set the target cooldown so that we don't come back through the other end. You can change this number to however long you see fit.
+
+```cs
+target.cooldown = 2f;
+```
+
+Finally, to the until now unused Update() method add a condition to drop this timer back to zero over time:
+
+```cs
+if (cooldown > 0){
+    cooldown = cooldown - Time.deltaTime;
+}
+```
+
+Go through your teleporter and you should come out the other side with enough time to jump off it.
+
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/InAndOut.gif" alt="" style="width: 100%;"/>
 
 ### In working order
 
@@ -110,3 +149,5 @@ If you need something else to do, try make the following using this script.
 * A loop of 3 or more teleporters that take you around the world.
 
 * A set of teleporters that all go one way to a single central teleporter.
+
+The purpose of today's session was to focus on how muliple scripts of the same type can interact with each other.
