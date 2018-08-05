@@ -21,6 +21,10 @@ Firstly, welcome to Code Cadets! This year we're going to be exploring three key
 ### [Weeks 1 and 2 | Simple Movement implementation from scratch](playable.md)
 
 
+### [Week 3 | Interaction between Scripts](Interact.md)
+
+### Week 4 | Interaction between Scripts continued
+
 ## Term 2 - Unity Game Development
 
 ###  [Week 1 | Getting started with Unity](unityintro.html)
