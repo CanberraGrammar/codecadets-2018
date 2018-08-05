@@ -200,6 +200,8 @@ A Vector3 is a special Datatype to represent 3D space. Set the x,y,z set to coor
 
 We want to map a *very basic* rotation to your mouse so that you can see the X,Y,Z movement of your object is relative to your current position, and not fixed to a grid. You'll need this function: ```transform.Rotate(X,Y,Z,0);```, which behaves very similarly to the Translate function you've used that far. Map the Y variable to the input for the "Mouse X" axis similar to before, and see what happens.
 
+Alternatively, if you prefer a different control scheme, try mapping transform.Rotate to your horizontal axis to allow for turning instead of strafing.
+
 
 #### Finished this?
 

@@ -1,6 +1,6 @@
 ---
 
-title: Script Interaction
+title: Interaction as simple AI
 
 ---
 
@@ -11,6 +11,8 @@ title: Script Interaction
 ## [http://unity.codecadets.com](http://unity.codecadets.com)
 
 ### The goal : Create a basic AI using scripts
+
+* Using your previous script, control multiple objects.
 
 * Using scripts to make objects act on their own.
 
