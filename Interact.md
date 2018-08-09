@@ -22,6 +22,8 @@ I have given you **every line of code you need**, but not the final script. It's
 
 * Create an object to act as your teleporter, perhaps a large cube or cylinder. For my demonstration, I used two cylinders flattened using scaling.
 
+* <font color="red">Addendum: Must tick the "Is Trigger" box in the object's collider.</font>
+
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/cylinders.png" alt="" style="width: 100%;"/>
 
 * Create a new script for your object called ```Teleporter.cs``` or similar

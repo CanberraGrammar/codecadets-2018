@@ -21,6 +21,6 @@ title: Interaction as simple AI
 
 ### Scripting multiple Objects
 
-> Using your movement scripts from last week.
+> Using your movement scripts from Weeks 1-2
 
 Create a new object in your Game world next to your controllable object from before.
