@@ -18,7 +18,7 @@ Firstly, welcome to Code Cadets! This year we're going to be exploring three key
 
 ## Term 3 - Unity and C# Programming
 
-### [Weeks 1 and 2 | Simple Movement implementation from scratch](playable.md)
+### [Weeks 1 and 2 | Simple Movement implementation from scratch](playable.md)  --- [Week 1/2 Solution script](SimpleMove.md)
 
 
 ### [Week 3 | Interaction between Scripts](Interact.md)
