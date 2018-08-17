@@ -21,7 +21,7 @@ Firstly, welcome to Code Cadets! This year we're going to be exploring three key
 ### [Weeks 1 and 2 | Simple Movement implementation from scratch](playable.md)  --- [Week 1/2 Solution script](SimpleMove.md)
 
 
-### [Week 3 and 4 | Interaction between Scripts](Interact.md)
+### [Week 3 and 4 | Interaction between Scripts](Interact.md)  --- [Week 3/4 Solution script](Teleport.md)
 
 ### Week 5 | More Advanced Interaction
 
