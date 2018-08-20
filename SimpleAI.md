@@ -94,6 +94,10 @@ Destroy(gameObject);
 
 Let your pursuing object run into you and see what happens next.
 
+### Extended Compatibility
+
+This was a relatively short lab compared to the last two; if you've finished this add Compatibility to use your teleporters to your enemy object. 
+
 
 ----
 
