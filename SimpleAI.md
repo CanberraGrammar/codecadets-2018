@@ -21,7 +21,7 @@ title: Interaction as simple AI
 
 ### Scripting multiple Objects in Tandem
 
-> Using your movement scripts from Weeks 1-2
+> Using your movement scripts from Weeks 1-2. If you did not finish that, [try the sample code avaliable here.](SimpleMove.md)
 
 Create a new object in your Game world next to your controllable object from before.
 
@@ -31,6 +31,10 @@ Your code has no specific binding to any one object, and will respond for any nu
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/Army.gif" alt="" style="width: 100%;"/>
 
+
+### Mirror Image
+
+Take your second object, and change the speed to a negative number, say ```-10```. Observe the behaviour if you change these values.
 
 ### Autonomous actions
 
@@ -96,7 +100,7 @@ Let your pursuing object run into you and see what happens next.
 
 ### Extended Compatibility
 
-This was a relatively short lab compared to the last two; if you've finished this add Compatibility to use your teleporters to your enemy object. 
+This was a relatively short lab compared to the last two; if you've finished this add Compatibility to use your teleporters to your enemy object.
 
 
 ----
