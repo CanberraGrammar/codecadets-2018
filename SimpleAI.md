@@ -51,10 +51,14 @@ transform.Translate(x,y,z);
 
 Start from here, using your simple movement as a basis for Time.deltaTime and speed properties if you can.
 
+Make the object move on its own, similar to we did in the first week of term.
+
 
 ### Hunt you down
 
-Using a public property like before, create a target GameObject.
+Using a public property like we did with the Teleporters, create a target GameObject. Then, drag your main controllable object into the target property.
+
+Then, use this code in your new enemy class to make it move towards the target constantly.
 
 ```cs
 Vector3 pos = target.transform.position - transform.position;
