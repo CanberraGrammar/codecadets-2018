@@ -84,6 +84,20 @@ The three parameters are:
 
 * step - which is the movement speed, so perhaps ```speed * Time.deltaTime``` or similar constant.
 
+
+### Rotating to face
+
+If you used a simple object such as a sphere like I did, you may not be conscious of the fact the object is always facing one way.
+
+For a simple addition to make an object face yours, try the following code.
+
+```cs
+Vector3 newDir = Vector3.RotateTowards(transform.forward, localPosition, speed * Time.deltaTime, 0.0f);
+transform.rotation = Quaternion.LookRotation(newDir);
+```
+
+Don't worry too much about what a Quarternion is, it's built on mathematical concepts far beyond what you're expected to know.
+
 ### Simple Hostility
 
 We can really easily make use of this simple AI to act as the basis of a typical video game enemy.  
