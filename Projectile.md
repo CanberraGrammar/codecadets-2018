@@ -34,11 +34,11 @@ First, we're going to want to import a new assets pack if you don't have it alre
 
 * Then, once that is imported, Right Click your object in the heirarchy window, and create a new Particle System on it.
 
-<img src="https://canberragrammar.github.io/codecadets-2018/Resources/Particles.png" alt="" style="width: 60%;"/>
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/Particles.png" alt="" style="width: 50%;"/>
 
 * Customise this Particle System in the inspector window as you see fit.
 
-<img src="https://canberragrammar.github.io/codecadets-2018/Resources/PSystem.png" alt="" style="width: 50%;"/>
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/PSystem.png" alt="" style="width: 35%;"/>
 
 * Go to your projectile object, and **untick the box that says MeshRender**. This will remove the physical form of the object, but leaving its collider and the particle systems you've placed in it.
 
@@ -49,7 +49,7 @@ Your object should now roughly look like a Fireball or similar energy project, l
 
 * Make the object a pre-fab. (This makes it easier to instantiate.) To do this, just drag your completed object into the Assets folder at the bottom.
 
-<img src="https://canberragrammar.github.io/codecadets-2018/Resources/Prefab.png" alt="" style="width: 90%;"/>
+<img src="https://canberragrammar.github.io/codecadets-2018/Resources/Prefab.png" alt="" style="width: 80%;"/>
 
 ### Spawning in
 
@@ -98,6 +98,8 @@ Rigidbody rb = missile.GetComponent<Rigidbody>();
 rb.velocity = transform.forward * speed;
 ```
 
+* This will access the instantiated missle's physics properties, and apply a forward speed to it, multiplied by the speed factor you pass in from the editor. Make sure this is not 0.
+
 ### Destruction
 
 * Add new script to projectile prefab in your assets folder. Call it ```Projectile```.
@@ -144,6 +146,8 @@ else {
 * If all things went as planned, you should be able to launch the projectile system forward like so.
 
 <img src="https://canberragrammar.github.io/codecadets-2018/Resources/FIRE.gif" alt="" style="width: 90%;"/>
+
+* For this demonstration I left the MeshRender on so the object is clearly visible.
 
 * You may find the missile is capable of destroying your terrain, leading to your object falling through the floor. See if you can fix this using conditions like before.
 
