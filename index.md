@@ -23,7 +23,7 @@ Firstly, welcome to Code Cadets! This year we're going to be exploring three key
 
 ### [Week 3 and 4 | Interaction between Scripts](Interact.md)  --- [Week 3/4 Solution script](Teleport.md)
 
-### [Week 5 | Script Interaction as the basis of AI](SimpleAI.md)
+### [Week 5 | Script Interaction as the basis of AI](SimpleAI.md) --- [Week 5 Solution script](AI.md)
 
 ### [Week 6 | Instantiation and Destruction](Projectile.md)
 
