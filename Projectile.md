@@ -15,6 +15,13 @@ title: Scripts to create and destroy objects
 
 This is a long one and may take two sessions, so don't feel a need to rush through it.
 
+
+This will build upon the concepts from previous weeks:
+
+* Motion and physics
+
+* Script Interactions
+
 ## Create a new Object to be your projectile
 
 I personally recommend a simple sphere. Scale it to an appropriate size.
