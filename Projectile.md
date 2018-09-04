@@ -28,7 +28,7 @@ I personally recommend a simple sphere. Scale it to an appropriate size.
 
 > GameObject -> 3D Object -> Sphere
 
-For the purposes of this tutorial, we will be making a physics-less missile object, similar to a fireball or spell. However, if you use Rigidbody and leave the physical model in, it can just as easily be a physical missile or bullet.
+For the purposes of this tutorial, we will be making a weightless missile object, similar to a fireball or spell. However, if you use Gravity and leave the physical model in, it can just as easily be a physical missile or bullet.
 
 
 ### Particles and Effects
