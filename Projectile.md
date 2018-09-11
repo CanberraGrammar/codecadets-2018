@@ -160,6 +160,8 @@ else {
 
 ----
 
-### Extension Activity.
+### Extension Activities
 
 Create a new script to be "Damage", that handles a response to being hit by a projectile, and has a Health value so that objects can take multiple hits.
+
+Create a new script so that the enemies attack you on a regular timer, using the same logic as the cooldown in the teleporter activity. Implement your damage script for the player as well.
