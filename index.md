@@ -25,7 +25,7 @@ Firstly, welcome to Code Cadets! This year we're going to be exploring three key
 
 ### [Week 5 | Script Interaction as the basis of AI](SimpleAI.md) --- [Week 5 Solution script](AI.md)
 
-### [Week 6, 7, 8 | Instantiation and Destruction + Extensions](Projectile.md) --- [Week 6/7 Solution scripts](Attacks.md)
+### [Week 6, 7, 8, 9 | Instantiation and Destruction + Extensions](Projectile.md) --- [Week 6/7 Solution scripts](Attacks.md)
 
 ## Term 2 - Unity Game Development
 
