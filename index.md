@@ -16,6 +16,12 @@ Firstly, welcome to Code Cadets! This year we're going to be exploring three key
 ### Course Outline
 
 
+## Term 4 - Building Cohesive, simple games
+
+### [Week 1 | Simple Platforming Mechanics](Together.md)
+
+-----
+
 ## Term 3 - Unity and C# Programming
 
 ### [Weeks 1 and 2 | Simple Movement implementation from scratch](playable.md)  --- [Week 1/2 Solution script](SimpleMove.md)
@@ -26,6 +32,8 @@ Firstly, welcome to Code Cadets! This year we're going to be exploring three key
 ### [Week 5 | Script Interaction as the basis of AI](SimpleAI.md) --- [Week 5 Solution script](AI.md)
 
 ### [Week 6, 7, 8, 9 | Instantiation and Destruction + Extensions](Projectile.md) --- [Week 6/7 Solution scripts](Attacks.md)
+
+-----
 
 ## Term 2 - Unity Game Development
 
@@ -41,7 +49,7 @@ Firstly, welcome to Code Cadets! This year we're going to be exploring three key
 
 
 
-
+-----
 
 
 ## Term 1 - Programming Fundamentals and Skills
